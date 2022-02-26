@@ -1,0 +1,959 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jesus Christ the mysticall or Gospell sun, sometimes seemingly eclipsed, yet never going down from his people: or, Eclipses spiritualized. Opened in a sermon at Paul's before the Right Honourable the Lord Mayor, aldermen, &amp;c. March 28. 1652. The day before the late solar eclipse. By Fulk Bellers, Master of Arts, and preacher of the Gospel in the city of London.</title>
+            <author>Bellers, Fulk, b. 1605 or 6.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 99 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76372</idno>
+            <idno type="STC">Wing B1827</idno>
+            <idno type="STC">Thomason E665_15</idno>
+            <idno type="STC">ESTC R206852</idno>
+            <idno type="EEBO-CITATION">99865952</idno>
+            <idno type="PROQUEST">99865952</idno>
+            <idno type="VID">118209</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76372)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118209)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 102:E665[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Jesus Christ the mysticall or Gospell sun, sometimes seemingly eclipsed, yet never going down from his people: or, Eclipses spiritualized. Opened in a sermon at Paul's before the Right Honourable the Lord Mayor, aldermen, &amp;c. March 28. 1652. The day before the late solar eclipse. By Fulk Bellers, Master of Arts, and preacher of the Gospel in the city of London.</title>
+                  <author>Bellers, Fulk, b. 1605 or 6.</author>
+               </titleStmt>
+               <extent>[8], 35, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Maxey for John Rothwell, at the Sun and Fountain in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC LII. [1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a preliminary license to print.</note>
+                  <note>Annotation on Thomason copy: "may 27th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Early works to 1800.</term>
+               <term>Solar eclipses --  Religious aspects --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118209:1" rendition="simple:additions"/>
+            <p>JESUS CHRIST THE <hi>MYSTICALL</hi> OR GOSPELL SUN, Sometimes ſeemingly <hi>eclipſed,</hi> yet never going down from his PEOPLE: OR ECLIPSES Spiritualized.</p>
+            <p>Opened in a SERMON at <hi>Paul</hi>'s before the Right Honourable the Lord Mayor, Aldermen, &amp;c. <hi>March</hi> 28. 1652. The day before the late <hi>SOLAR ECLIPSE.</hi>
+            </p>
+            <p>BY FULK BELLERS, Maſter of Arts, and Preacher of the Goſpel in the City of <hi>LONDON.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. Maxey</hi> for <hi>John Rothwell,</hi> at the <hi>Sun</hi> and <hi>Fountain</hi> in <hi>Pauls</hi> Church-yard. MDCLII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:118209:2"/>
+            <pb facs="tcp:118209:2"/>
+            <head>To the Right Honourable JOHN KENDRICK, LORD MAYOR, and The Right Worſhipfull, the Aldermen and She<g ref="char:EOLhyphen"/>riffs of the Honourable City of LONDON.</head>
+            <opener>
+               <salute>Right Honourable, and Right Worſhipfull,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Ad there been any reall danger in firmamentary Eclipſes, our God doubtleſſe would have left it upon record in the Scrip<g ref="char:EOLhyphen"/>ture: Since we are ſure,
+<note n="a" place="margin">Amos 3.7. See alſo Jer. 18.7, 8.</note> 
+               <hi>the Lord God will doe no<g ref="char:EOLhyphen"/>thing,</hi> (viz. in a way of judgment) <hi>but he</hi> firſt <hi>reveals his ſecret</hi> (intendment) <hi>to his ſer<g ref="char:EOLhyphen"/>vants, the Prophets.</hi> Now how ſilent the word is in this, I leave it to the judgment of all, that are any way verſed in the Book of God. That which ſtartleth many at the beholding of them, is that which ſcared divers heretofore, <hi>viz.</hi> either</p>
+            <p n="1">
+               <hi>1. The Rarity of them:</hi>
+               <note n="b" place="margin">
+                  <hi>Solis exortus, curſus, occaſus nemo admira<g ref="char:EOLhyphen"/>tur, proptereà quòd quotidiè fiunt: at eclip<g ref="char:EOLhyphen"/>ſes Solis miran<g ref="char:EOLhyphen"/>tur, quia rarò accidunt; &amp; Solis eclipſes magis miran<g ref="char:EOLhyphen"/>tur, quàm Lu<g ref="char:EOLhyphen"/>nae, quoniam hae crebriores ſunt.</hi> Auctor ad Herenni<g ref="char:EOLhyphen"/>um, lib. 3<hi rend="sup">o</hi>. mihi, p. 38. <hi>G.</hi>
+               </note> No man wondreth at the riſing, the quick-moving, the ſetting of the Sun, becauſe theſe things are ob<g ref="char:EOLhyphen"/>ſerved daily: But <hi>Solar</hi> Eclipſes, (becauſe they come ſeldome) are wondred at even far more then <hi>Lunar,</hi> (which are more frequent) as was well obſerved by that heathen long ago.</p>
+            <pb facs="tcp:118209:3"/>
+            <p n="2">
+               <hi>2. Men's unacquaintedneſſe with the naturall cauſes of them;</hi> As we find in thoſe <hi>Indians</hi> in <hi>Jamaica,</hi> who refuſing to furniſh <hi>Columbus,</hi> that <hi>Genoeſe,</hi> (the firſt diſcove<g ref="char:EOLhyphen"/>rer of the new <hi>American</hi> world) with provi<g ref="char:EOLhyphen"/>ſions, ſeeing the people idolatrouſly devoted unto the Moone, and fore-ſeeing her eclipſe, <hi>(by his Ephemerides)</hi>
+               <note n="c" place="margin">
+                  <hi>Purchas's</hi> pil<g ref="char:EOLhyphen"/>grimage 8. book, cap. 2. pag. 731. <hi>mihi</hi>
+               </note> 
+               <hi>he told the Iſlanders that if they did not bring him in proviſion, the divine anger would conſume them, a ſigne whereof they ſhould ſee in the dark<g ref="char:EOLhyphen"/>ned face of the Moone within two dayes.</hi> The <hi>Indians</hi> being ignorant of the cauſe, were ſo terrified at the beholding of this eclipſe, that they came to beg pardon of him, and bring him in proviſion in abundance, whereby <hi>Colum<g ref="char:EOLhyphen"/>bus</hi> (making uſe of their ignorance,)
+<note n="d" place="margin">
+                  <hi>Henric. Sal<g ref="char:EOLhyphen"/>muth Comment. in Panciroll.</hi> lib. 2. tit. 1. <hi>de orbe novo.</hi>
+               </note> ſupplied his own neceſsities, and engaged the people much unto him.</p>
+            <p n="3">
+               <hi>3.</hi> Thoſe <hi>remainders and dregs of ſuper<g ref="char:EOLhyphen"/>ſtition and idolatry,</hi> that are to be found in all. This is the cauſe why many heathens of old did look upon the
+<note n="e" place="margin">
+                  <hi>In hoc unum omnium propè populorum ſen<g ref="char:EOLhyphen"/>tentiae primùm convenerant; ut—ſuperna cor<g ref="char:EOLhyphen"/>pora,</hi> Solem, Lunam, <hi>reli<g ref="char:EOLhyphen"/>quaque aſtra, Deos appellave<g ref="char:EOLhyphen"/>rint, &amp; eſſe crediderint.</hi> Natalis Co<g ref="char:EOLhyphen"/>mes, Mytholog. lib. 1. pag. 10.</note> Sun as their God, and the Moon as their Goddeſſe; therefore ſeeing either of them to be robbed, or bereaved of light, they were exceedingly
+<note n="m" place="margin">
+                  <hi>Putabant ſo<g ref="char:EOLhyphen"/>lem &amp; lunam eclipſin patien<g ref="char:EOLhyphen"/>tia moe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ore affi<g ref="char:EOLhyphen"/>ci, tanquam reges irâ com<g ref="char:EOLhyphen"/>motos, &amp; in<g ref="char:EOLhyphen"/>dignatione; i<g ref="char:EOLhyphen"/>deoque ab hu<g ref="char:EOLhyphen"/>juſmodi ſignis metuebant, &amp; reges ſuos pla<g ref="char:EOLhyphen"/>care ſacrificiis ſtudebant, &amp;c.</hi> Pet. à Figuerio.</note> amazed. The remainders of this ſuperſtition and idolatry wee may obſerve in thoſe Apoſta<g ref="char:EOLhyphen"/>tes, <hi>who</hi>
+               <note n="f" place="margin">Ezek. 8.16.</note> 
+               <hi>worſhipped the Sun towards
+<pb facs="tcp:118209:3"/>the eaſt, and</hi>
+               <note n="g" place="margin">2 Kin. 23.5.</note> 
+               <hi>burned incenſe to Baal, to the Sun, and to the Moon, to the Planets, and all the Hoſt of heaven;</hi> yea, the very dregs of theſe are to be found in the ſouls of all, becauſe
+<note n="h" place="margin">Prov. 27.19.</note> 
+               <hi>as face in the water,</hi> (or in the glaſs) <hi>anſwereth unto face, ſo doth the heart of man unto man.</hi> Their idola<g ref="char:EOLhyphen"/>tries and ſuperſtitions acquaint all, what ſeeds are to be found in their ſouls.</p>
+            <p n="4">
+               <hi>4. The want of that principle of grace, &amp; that filial fear of the Lord,</hi> that ſhould be in men. Were this fear preſent, it would eat up all carnal fear touching eclip<g ref="char:EOLhyphen"/>ſes, as it did of earthquakes, thundrings, &amp; lightnings, in the primitive Chriſtians. Or as
+<note n="i" place="margin">Exod. 7.2.</note> 
+               <hi>Aaron's rod did ſwal<g ref="char:EOLhyphen"/>low up</hi> the rods of the wiſe men, ſorcerers, magicians, inchanters, in the preſence of <hi>Pharaoh;</hi> Pondering up<g ref="char:EOLhyphen"/>on this, that it is as naturall for the Sun, or Moon to be eclipſed in their ſeaſons, as daily to riſe and ſet in the world. But <hi>eſpecially conſidering</hi> that poſitive injunction,
+<note n="k" place="margin">Jer. 10.2. <hi>Ita ut ex a<g ref="char:EOLhyphen"/>ſtris coelique fi<g ref="char:EOLhyphen"/>deribus pendea<g ref="char:EOLhyphen"/>tis, atque ex illis ventura divene<g ref="char:EOLhyphen"/>tis, ita ut ſigna illa coeleſtia terrori vobis ſint; atque for<g ref="char:EOLhyphen"/>midini quemad<g ref="char:EOLhyphen"/>modum ipſis ſint Gentibus, &amp;c. Toſſarii Peraphr. in loc.</hi>
+               </note> 
+               <hi>Learn ye not the way of the heathen, neither be diſmayed at the ſignes of heaven,</hi> and that upon this account, <hi>becauſe the heathen are diſ<g ref="char:EOLhyphen"/>mayed at them.</hi> A text fully againſt allcarnall fears touching eclipſes; yea, againſt judicial Aſtrologie it ſelf, by the vote of
+<note n="l" place="margin">
+                  <hi>Hic locus in<g ref="char:EOLhyphen"/>ſignis eſt contra Aſtrologos, im<g ref="char:EOLhyphen"/>poſtores omnium maximos.</hi> Oe<g ref="char:EOLhyphen"/>colampad.</note> 
+               <hi>Oecolampadius, Bullinger, Parae<g ref="char:EOLhyphen"/>us, Vatablus, Pellicanus, Calvin,</hi> yea of <hi>à La<g ref="char:EOLhyphen"/>pide</hi> alſo, who do abundantly juſtifie the laſt lear<g ref="char:EOLhyphen"/>ned Engliſh Annotations upon that place, which are worthy the peruſall of all.</p>
+            <pb facs="tcp:118209:4"/>
+            <p>But however there be little danger <hi>in firmamen<g ref="char:EOLhyphen"/>tary,</hi> yet there are many diſcomforts in <hi>ſpirituall E<g ref="char:EOLhyphen"/>clipſes:</hi> And this made me, upon a ſudden call to preach before your <hi>Honour,</hi> (obſerving many to be amuſed with perplexing fears) to compare ſpirituall with firmamentary eclipſes, and to demonſtrate, that there is no cauſe of dreading any of the <hi>pretended direful operations</hi> of the later, when the cauſes of the former are removed out of the way. How far the enſu<g ref="char:EOLhyphen"/>ing diſcourſe was then looked upon <hi>as a word in ſea<g ref="char:EOLhyphen"/>ſon,</hi> I need not now relate. It now comes abroad upon importunity, and all that I ſhall adde, is my earneſt deſire, that the bleſsing of the Lord may go along with it; that all thoſe clouds of ſin between us, and our God, may be diſpell'd, and that Jeſus Chriſt, the true myſticall Sun, may ſtill go on to ſhine into our ſouls. And that his bleſsing may be with you all, in your Perſons, Relations, Families, and in your Go<g ref="char:EOLhyphen"/>vernment, that this <hi>renowned City</hi> may flouriſh in <hi>Religion, Peace, Plenty,</hi> and <hi>Proſperity,</hi> which ſhal be the daily prayer of</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>May</hi> the <hi>12. 1652.</hi>
+                  </date>
+               </dateline>
+               <signed>The moſt unworthy Ser<g ref="char:EOLhyphen"/>vant of Chriſt in the Mini<g ref="char:EOLhyphen"/>ſtry of his Goſpel, FULK BELLERS.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:118209:4"/>
+            <head>JESUS CHRIST the Myſticall SUN.</head>
+            <epigraph>
+               <q>
+                  <bibl>ISAIAH 60.20.</bibl>
+                  <p>Thy Sun ſhall no more go down.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Text that I have read <hi>(Right Ho<g ref="char:EOLhyphen"/>nourable)</hi> may ſeem a Paradox to ma<g ref="char:EOLhyphen"/>ny: and that upon a double account. <hi>viz.</hi> to hear of a Sun,</p>
+            <p n="1">1. Monopolized, to ſome ſort of people; when as the ordinary Sun ſhineth both upon the juſt, and unjuſt; yet this is confined unto the elect of God, in that poſſeſſive affix,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>thy.</hi>
+            </p>
+            <p n="2">2. That will not ſet, nor go down from the Horizon where it is: whereas the Sun in the firmament, riſeth and ſetteth every day: But however, it may ſeeme improbable to fleſh and blood, and to the remainders of carnall reaſon, that are to be found within us. And albeit, it may wrap every one into admiration, to hear of ſuch a Sun, ſo con<g ref="char:EOLhyphen"/>fined; and that knowes no way to go down: yet to a man with a ſpirituall eye, it ſeems neither impoſſible, nor yet improbable; becauſe the mouth of truth, that can<g ref="char:EOLhyphen"/>not lie, hath ſpoken it.</p>
+            <p>There are indeed in Scripture many Paradoxes to men that have onely the glimering light of nature within them; as that 1
+<note n="a" place="margin">Matth. 1.</note> 
+               <hi>A virgin ſhould bring forth a Son.</hi> 2
+<note n="b" place="margin">2 Tim. 1.10.</note> That <hi>Chriſts death ſhould</hi> be a means <hi>to bring life and immorta<g ref="char:EOLhyphen"/>lity to light by the Goſpel.</hi> 3
+<note n="c" place="margin">Heb. 11.3.</note> That <hi>all things that are now made, ſhould be made out of things that did not appear,</hi> i. e.
+<pb n="2" facs="tcp:118209:5"/>out of a flat meer nothing, 4. That <hi>our bodies</hi> when they ſhall be mouldred into duſt, <hi>ſhall</hi> yet <hi>be reunited to our ſoules in the day of the ſecond appearing of Jeſus Chriſt:</hi> 5.
+<note n="e" place="margin">1 Cor. 1.26, 27, 28.</note> That <hi>God ſhould call into the ſtate of grace, not many wiſe men after the fleſh, not many mighty, not many noble: But make choice of the fooliſh, weake, deſpiſed, yea, baſe ones of the world,</hi> when he paſſeth by the Grandees of the earth; to make (I ſay) them heirs of heaven: And among others I may reckon up my Text, which is indeed <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; beyond the opinion of many, but not beyond the common truth of God, nor beyond the reaſon of a renewed Chriſtian: And in theſe paſſages (eſpecially in this) that ſeem ſo repugnant, yea abſurd many times to a carnall judgment, we are always to put into the ſcale (that we may poize down reaſon, and advance faith)</p>
+            <p n="1">1 The Power of our God, which is not as the power of man: Mans power is but a limited, finite kind of pow<g ref="char:EOLhyphen"/>er; His ell or meaſure is too ſhort to meaſure the infinite, incomprehenſible omnipotence of our God; He that was able to make <hi>the Sun to go back in</hi>
+               <note n="a" place="margin">Iſai. 38.8.</note> 
+               <hi>Hezekiah's time,</hi> in a way of retrograde motion, ten degrees: And he that was able to make the <hi>Sun to ſtand ſtill in the midſt of heaven, ſo that it haſted not to go down about a whole day,</hi> in
+<note n="b" place="margin">Joſ. 10.12, 13.</note> 
+               <hi>Joſhuah's</hi> time: is equally able to make this Sun (whereof he now ſpeaketh) not to go down at all unto his people.</p>
+            <p n="2">2 The Truth and will of God manifeſted in his promi<g ref="char:EOLhyphen"/>ſes: Hath he ſpoken it, and ſhall he not do it? Hath he ſaid it, and ſhall he not bring it to paſſe? We may reſt ſa<g ref="char:EOLhyphen"/>tisfied in this, that the mouth of the Lord hath uttered, that <hi>Thy Sun ſhall no more go down.</hi>
+            </p>
+            <p n="3">3 The Subject whereof all theſe Paradoxes ſpeak, which is here the term <hi>Sun,</hi> not naturall, but ſupernaturall.</p>
+            <p>Now that I may briefly lead you to the full meaning of theſe words, You may obſerve the dependance of theſe upon thoſe fore-going, to ſtand thus: The whole former part of this Chapter is taken up in diſcovering the happy e<g ref="char:EOLhyphen"/>ſtate of the Church of Chriſt, under the time of the Goſpel, in regard of all her ſpirituall enjoyments; whereof two
+<pb n="3" facs="tcp:118209:5"/>are peculiarly enumerated or reckon'd up; To which we ſhall reduce the reſt: <hi>viz.</hi>
+            </p>
+            <p n="1">1 The Promulgation of the everlaſting Goſpel, whereby when darkneſſe covers the earth, and groſſe darkneſſe all the unregenerate people on it; The Lord wil then ariſe with light, and bring in unexpected glory unto them: And this ſhall be a meanes to bring in abundance out of improbable places; ſuch as were
+<note n="c" place="margin">Ver. 2.</note> 
+               <hi>Midian, Epha,</hi>
+               <note n="d" place="margin">Ver. 6.</note> 
+               <hi>Sheba,</hi>
+               <note n="e" place="margin">Ver. 7.9.</note> 
+               <hi>Kedar</hi> and <hi>Tarſhiſh:</hi> yea from unlikely perſons; <hi>viz.</hi>
+               <note n="f" place="margin">Ver. 3.13, 16.</note> Kings, and earthly Potentates, ſhadowed out unto us by the trees of <hi>Lebanon.</hi> Where by the way, we might obſerve.</p>
+            <p>
+               <hi>Doct.</hi> That where Satan hath places under his own com<g ref="char:EOLhyphen"/>mand, God there is able not onely to <hi>cull,</hi> but to <hi>call</hi> out a people for himſelfe, and bring them in as Doves flock<g ref="char:EOLhyphen"/>ing to their windowes, flying with ſpeed as the clouds: And all to come near at his appointment.</p>
+            <p n="2">2 The collation or the beſtowing of greater mercies ſpi<g ref="char:EOLhyphen"/>rituall, then on men in former times, upon point of
+<list>
+                  <item>1 Gifts
+<note n="g" place="margin">Ver. 17.</note>; <hi>For braſſe I will bring gold, for iron ſilver, and for wood braſſe, and for ſtones iron: i. e.</hi> I will confer ſurpaſſing gifts upon them, that ſhall as far ſurpaſs what they have received formerly, as iron doth ordinary ſtones, or as ſilver doth iron, or as gold braſs.</item>
+                  <item>2 Governours
+<note n="h" place="margin">Ver. 17.</note>: <hi>I will make thy officers peace, and thy exactours righteouſneſſe:</hi> which was verified in the firſt fruits, in <hi>Ezra</hi> and <hi>Nehemiah,</hi> and other good Governours times: But the full harveſt is reſerved for Goſpel ſeaſons, as is plain to all; wherein Ma<g ref="char:EOLhyphen"/>giſtrates are promiſed to be ſtirred up, that ſhould be peaceable procurers of their peoples welfare: And I am ſure it is a badge of a mans belonging unto <hi>Babylon,</hi> not <hi>Jeruſalem,</hi> to be an oppreſſour of the people of God.</item>
+                  <item>3 Priviledges.
+<list>
+                        <item>1 Violence ſhall not be heard in thee: Which words are not a promiſe of abſolute immunity from the croſs; But a comparative comfort; that however
+<pb n="4" facs="tcp:118209:6"/>the Church may meet with many preſſures, yet it ſhall never totally be overwhelmed: God will preſerve and protect it, maugre all the violent at<g ref="char:EOLhyphen"/>tempts againſt it; Violence may be attempted, yet violence ſhall never be heard in thy land to prevail finally over my people in it.</item>
+                        <item>2 The breaking in of light amongſt them; ſo that they ſhould need neither Sun, nor Moon; whereby is imported, not that the Saints ſhould be deprived of thoſe common mercies, attending upon their wel-being in this world.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>But becauſe they ſhould not now any longer fix their happineſſe in the enjoyment of theſe, or any earthly, low, worldly object, but ſhould be mounted up above, and collocate all their happineſſe in the enjoyment of God; and hence here is promiſed a better mercy: <hi>That the Lord ſhall be to thee an everlaſting light, and thy God ſhall be thy glory:</hi> and this is amplified in the words of the Text, to ſhew the perpetuity of this light unto them, <hi>Thy Sun ſhall no more go down.</hi>
+            </p>
+            <p>The words are an abſolute promiſe, held forth in a Ca<g ref="char:EOLhyphen"/>tegoricall negative Propoſition; which if I ſhould go about to reſolve <hi>logically</hi> into the <hi>ſubject (thy Sun,)</hi> the <hi>predicate (going down,)</hi> the <hi>Copula</hi> or the bond whereby they are knit together <hi>(ſhall not,)</hi> the <hi>modality (any more,)</hi> I ſhould e<g ref="char:EOLhyphen"/>difie but little: I ſhall therefore ſtrive <hi>Theologically,</hi> (i. e, plainly) to divide theſe words, and then you may obſerve theſe two things.</p>
+            <p n="1">1 The parties to whom this Priviledge doth belong, im<g ref="char:EOLhyphen"/>plicitely held forth unto us in that poſſeſſive particle <hi>thy.</hi>
+            </p>
+            <p n="2">2 The Priviledge belonging to theſe perſons: viz. <hi>That this Sun ſhall no more go down unto them.</hi>
+            </p>
+            <p>Something here needeth unfolding.</p>
+            <list>
+               <item>
+                  <hi>Q.</hi> 1 What is meant by this Sun?</item>
+               <item>
+                  <hi>Q.</hi> 2 What by the going down of the Sun?</item>
+               <item>
+                  <hi>Q.</hi> 3 Who are meant by the perſons involved in the affix, <hi>thy?</hi>
+               </item>
+               <item>
+                  <hi>Q.</hi> 4 What by going down any more?</item>
+               <pb n="5" facs="tcp:118209:6"/>
+               <item>
+                  <hi>Q.</hi> 5. When is the whole of this promiſe to be ve<g ref="char:EOLhyphen"/>rified? I ſhall ſatisfie theſe ſuccinctly.</item>
+            </list>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>1</label> By Sun in this place, we are not to underſtand 1. The firmamentary ſun, which is the greater light deſtinated by God to rule the day, and which daily riſeth and ſetteth, as is obvious to experience. But we are to underſtand</p>
+            <p n="2">2 A metaphoricall Sun, not the <hi>creature ſun, but the Crea<g ref="char:EOLhyphen"/>tor Sun,</hi> twice ſtiled <hi>Jehovah,</hi> is here onely aimed at, even Jeſus Chriſt, who is the myſticall
+<note n="a" place="margin">Mal. 4.2. <hi>Alſted. Para<g ref="char:EOLhyphen"/>titla. Calv. Deus erit Sol tuus. Quod Pro<g ref="char:EOLhyphen"/>pheta loquatur de Chriſto, cer<g ref="char:EOLhyphen"/>tiſſimum eſt, &amp;c</hi> Heſhuſius. Bre<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>tius in locum. <hi>Chriſtus eſt lux aeterna fidelium.</hi> Bullinger.</note> 
+               <hi>Sun of righteouſneſſe.</hi>
+            </p>
+            <p>I know ſome underſtand by Sun
+<list>
+                  <item>1 The ſtreams of the grace of God, and his favour in the comfortable influences and offers of it.</item>
+                  <item>2 But others look to the fountain of all this favour, <hi>viz.</hi> Jeſus Chriſt. And therefore moſt do unani<g ref="char:EOLhyphen"/>mouſly expound it of him: <hi>And he it is that is ap<g ref="char:EOLhyphen"/>pointed by his Father, to riſe in a ſpirituall way to his people, and never to ſet more upon them.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>2</label> The
+<note n="b" place="margin">
+                  <hi>Verbum</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> i.e. <hi>venit, Cum de Sole dicitur, Hebraicè idem quodoccidereeſt: ut</hi> Gen. 26. <hi>quia ingreſſus erat Sol. Tunc enim videtur ingredi Terras vel Oceanum, ut loquuntur Po<g ref="char:EOLhyphen"/>ëtae.</hi> Forerius in locum.</note> going down of the Sun in the proper notion of it, is nothing elſe but the departing of it out of our <hi>Horizon.</hi> And here the going down of Jeſus Chriſt (if poſ<g ref="char:EOLhyphen"/>ſible) ſhould be his finall departure away from his people: Chriſt will never ſo ſet; but however he may be eclipſed, yet he will ſtill continue in their Hemiſphere, i. e. <hi>He will abide with them for ever.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>3</label> The perſons related unto by the particle <hi>(thy)</hi> are expreſſed in the <hi>verſe</hi> after the Text; <hi>Thy people ſhall be all righteous, by profeſſion at leaſt, and by ſeparation at the laſt;</hi> when it ſhall be wholly purged, and only the righteous ſhall dwell in it. Jeſus Chriſt hath been about this purging work, even from the dayes of his coming into the fleſh; yea ſome way, from the beginning of the world, in ſeparating the tares from the corn,
+<note n="n" place="margin">Matth. 3.12.</note> 
+               <hi>the chaffe from the wheat;</hi> and he ſtil goes on to purge his floor, and will go on to the day of harveſt. To thoſe that have righteouſneſs imputed or imparted, this promiſe doth actually belong, while they are here: of which more anon.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>4</label> 
+               <hi>By going down any more:</hi> There might indeed ſeemingly be the going down of Chriſt, when he went into
+<pb n="6" facs="tcp:118209:7"/>the lower parts of the earth. But that was meerly in regard of his humanity; <hi>For</hi>
+               <note n="*" place="margin">Heb. 9.28.</note> 
+               <hi>Chriſt was once only offered to bear the ſins of many.</hi> He went down once and no more, not a ſecond time. But in regard of his Deity; by his Spirit once ariſing in our ſouls, he will never any more go down to us.</p>
+            <list>
+               <item>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>5</label>. This Promiſe, in regard of the inchoation of it, is to be begun here; where our God freeth his peo<g ref="char:EOLhyphen"/>ple many times from mourning; and gives unto them beauty for aſhes; the garment of joy for the ſpirit of heavineſſe. Where Saints are truly ſtiled,
+<note n="a" place="margin">Iſa. 61.3.</note> 
+                  <hi>trees of righteouſneſſe, the planting of the Lord, that he may be glorified;</hi> where they have the <hi>ſpirituall</hi>
+                  <note n="b" place="margin">Luke 17.21.</note> 
+                  <hi>kingdome of Chriſt begun</hi> within them. But</item>
+               <item>For the perfect conſummation of it, that is reſerved for heaven hereafter; yet the firſt fruits we do enjoy here. Saints, they have in the Church Militant this promiſe begun to them, onely the full complement of it is reſerved for them in the Church triumphant.</item>
+            </list>
+            <p>It is now to the beginnings of Chriſt here, that I ſhall labour in my enſuing diſcourſe, to apply this promiſe, which being thus expounded, doth reſolve it ſelf into theſe two Obſervations.
+<list>
+                  <item>
+                     <label>1 Doct.</label> 
+                     <hi>That Jeſus Chriſt is the ſame to Believers, as the Sun is to the world.</hi>
+                  </item>
+                  <item>
+                     <label>2 Doct.</label>
+                     <note place="margin">
+                        <hi>Quamvis ob<g ref="char:EOLhyphen"/>nubiletur, &amp;c.</hi> Oeculampa<g ref="char:EOLhyphen"/>dius.</note> 
+                     <hi>That however Jeſus Chriſt, the ſuperceleſtiall Sun, may be eclipſed, or beclouded, yet he will never go down from his people.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Thy Sun ſhall no more go down; i. e.</hi> however it may have a curtain drawn between thee and him, as the firmamentary Sun hath by clouds, or by the Moon in its eclipſe, yet <hi>go down, i.e.</hi> depart, he will not. Now for the profitable proſe<g ref="char:EOLhyphen"/>cution of theſe obſervations, I ſhall follow this method:</p>
+            <p n="1">1 I ſhall demonſtrate the grounds why Chriſt is ſhadow<g ref="char:EOLhyphen"/>ed out under this notion of the Sun.</p>
+            <p n="2">2 I ſhall cleare Chriſt to be the ſame to beleevers, as the Sun is to the world. Both theſe in reference to the former propoſition. And then,</p>
+            <p n="3">3 That however this myſticall Sun may ſometimes be
+<pb n="7" facs="tcp:118209:7"/>eclipſed, yet he will never go down from his people.</p>
+            <p n="4">4 I ſhall give the improvement of all.</p>
+            <div type="part">
+               <p>For the firſt. There are few that haeſitate about the appli<g ref="char:EOLhyphen"/>cation of this metaphoricall title to Jeſus Chriſt, that are not utterly unacquainted with the word of God; becauſe we read, that
+<note n="a" place="margin">Pſal. 84.11.</note> 
+                  <hi>Jehovah. the Lord God is a Sun to his people,</hi> the <hi>giver both of grace, and glory to them.</hi> And the Prophet
+<note n="b" place="margin">Mal. 4.2.</note> 
+                  <hi>Malachi</hi> is very plain, that <hi>he is the Sun of righteouſneſſe, that doth ariſe with healing in his wings;</hi>
+                  <note n="c" place="margin">
+                     <hi>Placaei Di<g ref="char:EOLhyphen"/>ſputat.</hi> p. 175.</note> this Sun being twice ſtiled <hi>Jehovah</hi> in this Chapter. If any doubt be, it is touching the accommodation of this to Jeſus Chriſt. And for the reſol<g ref="char:EOLhyphen"/>ving of that, I ſhal lay down theſe two things, <hi>viz.</hi> that he may be juſtly ſo ſtiled in a way of
+<list>
+                     <item>1 Oppoſition,</item>
+                     <item>2 Alluſion.</item>
+                  </list>
+               </p>
+               <p n="1">1 If you look upon him in a way of oppoſition to
+<list>
+                     <item>1 Leviticall ſhadows, or ceremonies, which yet were typicall prefigurations of him: Chriſt was as the Sun, in reſpect of thoſe candles, torches, ſtars, or leſſer lights at moſt. He did as far ſurpaſſe them in regard of ſplendor, as the firmamentary Sun, doth the ſigne of the Sun painted upon any Table. They are indeed but <hi>dull</hi>
+                        <note n="a" place="margin">Heb. 10.1. Coloſ. 2.17.</note> 
+                        <hi>ſhadows of him, that was the glory to come.</hi>
+                     </item>
+                     <item>2 That innate or naturall darkneſſe, that is to be found in all men by nature. <hi>For by nature</hi>
+                        <note n="b" place="margin">
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>. Eph. 5.8.</note> 
+                        <hi>we were</hi> not onely darke, but <hi>darkneſſe;</hi> not in the con<g ref="char:EOLhyphen"/>crete, but in the abſtract, which carrieth abundance of emphaſis in it. And when Jeſus Chriſt comes, he fills us with light, as the Sun doth the body of the hemiſphere, overrun with darkneſſe. And thus he becomes
+<note n="c" place="margin">John 1.9.</note> 
+                        <hi>the light of every one that comes into this world; viz.</hi> that is ſpiritually illuminated by him. Thus we ſee he is as the Sun, in reſpect of umbrages, and as the Sun, to diſpel all that intrin<g ref="char:EOLhyphen"/>ſecall darkneſſe to be found within us.</item>
+                  </list>
+               </p>
+               <p n="2">2 By way of alluſion. Alluſions may be many; but thoſe that are naturall, and obvious to all, (becauſe I do deſire to
+<pb n="8" facs="tcp:118209:8"/>profit all) I ſhall make uſe of. <hi>He is as the Sun,</hi>
+               </p>
+               <p n="1">1 By way of beauty or excellency. The Sun is deſervedly looked upon, as the Lord of all elementary vertues, the foun<g ref="char:EOLhyphen"/>tain of all aëriall light. By ſome as the heart of heaven. For as the heart is in the body naturall, ſo is the Sun in the firma<g ref="char:EOLhyphen"/>mentary body. Some look upon it, as the ſparkling eye of heaven, that carrieth beauty in it; yea ſome of the Philoſo<g ref="char:EOLhyphen"/>phers fancied, that in the ſun was the ſoul of the world, which filling that fiery globe (which we ordinarily ſee) thence dif<g ref="char:EOLhyphen"/>fuſeth his rayes, as ſo many ſpirits, whereby he diſtributeth life, ſenſe, and motion to all ſublunary creatures. It muſt needs be granted by all, that it is the moſt glorious, beauti<g ref="char:EOLhyphen"/>full, and the faireſt among all the ſtars.</p>
+               <p>Which how far it may be accommodated to Jeſus Chriſt, I ſhall briefly make out unto you.
+<note n="a" place="margin">Pſal. 45.2. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>Eſt verbum ge<g ref="char:EOLhyphen"/>minatum, au<g ref="char:EOLhyphen"/>gendae ſignifica<g ref="char:EOLhyphen"/>tionis gratiâ.</hi> Rivet.</note> 
+                  <hi>Jeſus Chriſt is ſaid to be fairer then the children of men.</hi> Perſonall beauty is a great or<g ref="char:EOLhyphen"/>nament, when ſeconded with morall vertues, how much more when with divine graces? as in
+<note n="b" place="margin">Gen. 39.6.</note> 
+                  <hi>Joſeph</hi> and
+<note n="c" place="margin">1 Sam. 16.13.</note> 
+                  <hi>David.</hi> But when attended with the
+<note n="e" place="margin">Coloſ. 1.19.</note> 
+                  <hi>fulneſſe of grace,</hi> which was to be found in Chriſt alone, what abundance of luſtre muſt it needs adde unto him? What that outward form, or feature of Jeſus Chriſt was, is utterly unknown, though that <hi>Jeſuite</hi> durſt take upon him to deſcribe it. God, I conceive, hath dealt by that, as by the body of <hi>Moſes,</hi> hiding of it, leſt any finding it,
+<note n="f" place="margin">Vavaſor. de formâ Chriſti.</note> ſhould idolize or adore it, in a diſtinct way from his Deity. But though we neither know the outward form, or feature of Jeſus Chriſt; yet the Scripture holds him forth as very faire and beautifull, as altogether lovely to the eye of faith.
+<note place="margin">Cant. 5.16. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> Not onely beautifull in one part, but in all parts; and two things that the word makes out to us, do a<g ref="char:EOLhyphen"/>bundantly demonſtrate it.</p>
+               <p n="1">1 That Jeſus Chriſt was <hi>without</hi>
+                  <note n="a" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Heb. 9.14.</note> 
+                  <hi>ſpot,</hi>
+                  <note n="b" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, 1 Pet. 1.19.</note> 
+                  <hi>blemiſh,</hi> or defor<g ref="char:EOLhyphen"/>mity. Chriſt he was without any blemiſh in reſpect of ſin. Deformities in body, alwaies ſpeak the preſence of ſome ſin in the ſoul Jeſus Chriſt was in all things like to us, yet with<g ref="char:EOLhyphen"/>out ſin. For ſuch an high Prieſt became us, that was holy, harmleſſe, and undefiled, ſeparate from ſinners. Jeſus Chriſt he was
+<pb n="9" facs="tcp:118209:8"/>
+                  <list>
+                     <item>1 <hi>Holy.</hi>
+                        <note place="margin">
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>,</note> 
+                        <hi>He had holineſſe to the Lord engraven upon his heart,</hi>
+                        <note n="a" place="margin">Exod. 28.36.</note> as the high Prieſt had it upon his holy crown of pure gold, like to the engravings of a ſignet.</item>
+                     <item>2 <hi>Harmleſſe or innocent.</hi>
+                        <note place="margin">
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</note> Devoid of all naturall pravity or ſinfulneſſe, unto which both Prieſt and People were obnoxious in the Levitical Law.</item>
+                     <item>3 <hi>
+                           <g ref="char:V">Ʋ</g>ndefiled, unpolluted;</hi>
+                        <note place="margin">
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</note> not contaminated with any ſin.
+<note n="a" place="margin">2 Cor. 5 21.</note> 
+                        <hi>He knew no ſin,</hi> by his own commiſſion, though he felt much for it by imputation.</item>
+                     <item>4 <hi>Separated from ſinners.</hi> He was obnoxious,
+<note place="margin">
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>.</note> as to no ſin, ſo to no guilt of ſin in and of himſelf. Separated he was from ſinners, as the high Prieſt when he entred into the holy of holies, was from the common peo<g ref="char:EOLhyphen"/>ple, which cauſes him to challenge the Jews,
+<note n="b" place="margin">John 8.46.</note> 
+                        <hi>Which of you convinceth me of ſin?</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="2">2. He was the <hi>brightneſſe of his Fathers glory,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Heb. 1.3.</note> or that re<g ref="char:EOLhyphen"/>ſplendent luſtre or effulgency ariſing from the light of his Fa<g ref="char:EOLhyphen"/>ther. He was not onely the reflection of the Father, as of the Sun in the Rainbow in a watery cloud; or as the Sun in the water or glaſſe, at the rebound onely. But as the Son is many times the reflection of the Father, being his own lively Picture and Image; as having all theſe glorious excellencies of wiſdome, knowledge, purity, that are to be found in his Father. Hence it is that <hi>we are ſaid</hi> [feelingly] <hi>to</hi>
+                  <note n="a" place="margin">2 Cor. 4.6.</note> 
+                  <hi>know the glory of God in the face of Chriſt.</hi> Becauſe in Chriſt we may ſee all thoſe glorious excellencies that are to be found in the Father, when as the veile that is upon our minds by nature, is done away. Now if Jeſus Chriſt were ſinleſſe, and the glit<g ref="char:EOLhyphen"/>tering refulgency of his Fathers glory, he muſt needs ſurpaſſe the Sun in beauty, when it ſhineth in its fulleſt ſtrength.</p>
+               <p n="2">2 In regard of the ſeat and influences of it,
+<note n="a" place="margin">Pſal. 19.5.</note> 
+                  <hi>God hath placed a Tabernacle for the Sun in the heavens:</hi> There it keep<g ref="char:EOLhyphen"/>eth it's reſidence. And hence Aſtronomers (clapping him in<g ref="char:EOLhyphen"/>to circles) allot unto him various Orbs; As the Eccentrique wherein the body of it remains; and a couple of orbs, the
+<note n="b" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> one to carry the part that is remoter from the earth, and
+<note n="c" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> another to carry the loweſt part of it. And a late
+<note n="d" place="margin">Copernicus.</note> Aſtro<g ref="char:EOLhyphen"/>nomer hath found out one more, <hi>Eccentrum Eccentri;</hi> but
+<pb n="10" facs="tcp:118209:9"/>all in heaven. Jeſus Chriſt we know, not only as God, but as man, is now in heaven; and
+<note n="g" place="margin">Acts 3.21.</note> 
+                  <hi>the Heavens muſt containe his bodily preſence till times of the reſtitution of all things:</hi>
+                  <note n="h" place="margin">Rev 3.21.</note> 
+                  <hi>And that he is ſet down in his Fathers Throne, on the high<g ref="char:EOLhyphen"/>eſt Seat of all glory and excellency.</hi>
+                  <note place="margin">Sol agit in in<g ref="char:EOLhyphen"/>feriora, motu, lumine, &amp; in<g ref="char:EOLhyphen"/>fluentiis.</note> By however, the Sun's reſidence be in heaven, yet his light and influences are here below on earth.</p>
+               <p>And he may be ſaid to dwell among us in regard of his rayes and beams: Jeſus Chriſt, we know dwelleth in the higheſt Heavens, but by his rayes and beams of grace,
+<note n="a" place="margin">Iſai. 57.15.</note> 
+                  <hi>he dwels with them that are of a contrite heart, to revive the ſpi<g ref="char:EOLhyphen"/>rit of the humble,</hi>
+                  <note place="margin">Rev. 2.1.</note> 
+                  <hi>and the heart of the contrite ones.</hi> By them <hi>he walketh in the midſt of the golden candleſticks;</hi> and as the Sun doth daily viſit the earth with his influences, ſo doth Jeſus Chriſt, the day ſpring from on high, viſit his Saints with the imbreathings and revivings of his graces and com<g ref="char:EOLhyphen"/>forts.</p>
+               <p n="3">3 In regard of his magnitude and greatneſſe: The Sun, of all the Planets, is deſervedly looked upon as the greateſt, both
+<note n="*" place="margin">Quantitate molis &amp; virtu<g ref="char:EOLhyphen"/>tis.</note> in bulk and vertue. The greatneſſe of it Aſtronomers did heretofore gather eſpecially by
+<note n="*" place="margin">
+                     <hi>Alſted. in Cy<g ref="char:EOLhyphen"/>clopaed.</hi> lib. 11. cap. 4. <hi>de</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>Solis Reg.</hi> 2.</note> eclipſes: And they make it out by demonſtrations, that it is 166 <hi>times</hi> bigger then the earth: How much greater then is the Creatour of the Sun, then that firmamentary ſun it ſelfe. We know, that <hi>by the Word (i. e.</hi> Jeſus Chriſt)
+<note n="l" place="margin">John 1.3.</note> 
+                  <hi>all things,</hi> (even the Sun it ſelfe) <hi>were made.</hi> We finde the Prophet crying out,
+<note n="m" place="margin">Iſai. 53.8.</note> 
+                  <hi>Who may declare his generation!</hi> And I may ſay, Who can declare his greatneſſe! no creature (I am ſure) is able to demonſtrate it,
+<note n="z" place="margin">Pſal. 145.3.</note> becauſe <hi>there is no end of his greatneſſe,</hi> it is unſearchable. The heavens do contain the firmamentary ſun, but the Heaven of heavens cannot contain this myſti<g ref="char:EOLhyphen"/>call Sun in regard of his Deity.</p>
+               <p n="4">4. His Forme and Oneneſs.</p>
+               <p n="1">1 The form of the Sun is of an orbicular round figure, a
+<note n="c" place="margin">
+                     <hi>Pierius</hi> lib. 39 <hi>de Cireulo.</hi>
+                  </note> clear embleme of eternity; for in a circle there is neither beginning nor ending. We read of
+<note n="n" place="margin">Heb. 7.3.</note> 
+                  <hi>Melchiſedek, that he was without beginning of dayes, or end of life,</hi> viz. as recorded in the hiſtory of <hi>Moſes:</hi> And in that he was a lively type
+<pb n="11" facs="tcp:118209:9"/>of Jeſus Chriſt, <hi>who as God, is the firſt and the laſt, God bleſ<g ref="char:EOLhyphen"/>ſed for ever.</hi>
+               </p>
+               <p n="2">2. For Oneneſs. We know that there are many ſtars,
+<note place="margin">
+                     <hi>Sol quòd ſolus eſſet, ſolus lu<g ref="char:EOLhyphen"/>ceret, &amp; reli<g ref="char:EOLhyphen"/>quis ſtellis lu<g ref="char:EOLhyphen"/>cem impcrtiret.</hi> Cicer. 2. de Natura deo<g ref="char:EOLhyphen"/>rum.</note> but one Sun that gives light to the world. There are many Saints that receive of Chriſts light continually, as the ſtars from the body of the Sun. In <hi>Arabia</hi> there is (as they ſay) to be found but one <hi>Phoenix;</hi> And in the body certainly there is but one heart: In the firmament but one Sun, and in the Church but
+<note n="p" place="margin">1 Tim. 2.5.</note> 
+                  <hi>one Mediatour between God and man, the man Chriſt Jeſus.</hi>
+               </p>
+               <p n="5">5. In regard of motion. The Sun, we know, is very quick; and that in twenty four hours it doth encircle the whole world. <hi>David</hi> repreſenteth him
+<note n="q" place="margin">Pſal. 19.5, 6.</note> 
+                  <hi>to run, like a giant, the race that is ſet before him:</hi> that is,</p>
+               <p n="1">1 Very ſwiftly, infinitely faſter then a man of the largeſt ſieze, or the longeſt breath. <hi>David's</hi> illuſtration, though ſome way expreſſive, doth fall ſhort of the Sun in the quickneſs of its motion. A bird upon the wing, an arrow ſhot out of the bow, cannot poſſibly reach the ſun upon point of ſpeed. How many thouſand miles doth he run within an hour?
+<note place="margin">
+                     <hi>Bellarmin. de Aſcenſ. mentis in Deum gradu</hi> 7<hi rend="sup">o</hi>, <hi>mihi,</hi> pag. 146.</note> It was a curious obſervation of that Cardinall, when hee had the full proſpect of the body of the Sun, ready to go down, to try a concluſion of the quickneſſe of the motion of it, took the <hi>Pſalmes</hi> into hand: Before <hi>(ſaith he)</hi> that I had twice read the 51 <hi>Pſalm,</hi> the whole ſun was ſet. Whereby he doth conclude, that the ſun runs in the eighth part of an hour 7000 miles: Though the Cardinals compute (as well as his doctrine in matters Polemicall, or of contro<g ref="char:EOLhyphen"/>verſie) doth very much fall ſhort of truth; yet his experi<g ref="char:EOLhyphen"/>ment in this, gives ſome proof of the quickneſſe of the ſun's motion: For the quickneſſe of Chriſts motion; how quick<g ref="char:EOLhyphen"/>ly did he come from heaven to earth, when he did aſſume our nature, and vailed himſelfe under our humanity? How quickly comes hee to the reliefe of his Church in diſtreſſe? And is he not as quick as the lightning upon point of mo<g ref="char:EOLhyphen"/>tion, when he comes to enlighten the world with his truth?</p>
+               <p n="2">2 Indefatigably, unweariedly: How conſtant was Jeſus Chriſt in doing the will of his Father, and to finiſh the work,
+<pb n="12" facs="tcp:118209:10"/>that he ſent him about: How doth he profeſſe, that it was his meat to do it. Never was there any hungry man labouring ſo conſtantly for, or delighting in his appointed food, as Jeſus Chriſt did conſtantly in doing the will of his Fa<g ref="char:EOLhyphen"/>ther.</p>
+               <p n="6">6. It's obedience to the Command of God. There is an obedientiall power, whereby the firmamentary Sun ſtandeth at Gods appointment; that made it to ſtand ſtill in <hi>Joſhu<g ref="char:EOLhyphen"/>ah's</hi> time: and to run back upon the diall of <hi>Ahaz,</hi> for a ſigne to <hi>Hezekiah.</hi> And how was it with Jeſus Chriſt? what an obedientiall yeilding was there of himſelfe to the will of his Father? He declares unto all, that he came up<g ref="char:EOLhyphen"/>on this errand, that he might fulfill his Fathers will, and finiſh the work that he had ſent him to do; and that he did do all things that pleaſed him alwayes: When he findeth it <hi>in the volume of the book to be written of him, that he ſhould do his will,</hi>
+                  <note place="margin">Pſal. 40.7, 8.</note> How doth his heart eccho? <hi>Lo, I come, I delight to do thy will, O my God; yea, thy Law is within my heart.</hi> And when he was to compleat the great work of our Redemption by his agony, his bloody ſweat, and finall paſſion; How doth he diſcover a will melted into the will of his Father, when reſigningly he gives up himſelfe in the midſt of all that ſoul-anguiſh that was upon him, which extorted, <hi>Father, if it bee poſſible, let this cup paſſe from me.</hi> Yet mark how willingly he doth ſurrender up himſelf to his Father; <hi>Yet not my will, but thine by done.</hi>
+               </p>
+               <p>So that in theſe ſix reſpects the firmamentary Sun is a live<g ref="char:EOLhyphen"/>ly embleme of that ſuper-celeſtiall Sun Jeſus Chriſt. <hi>viz.</hi> both in regard of
+<list>
+                     <item>1 Beauty and excellency.</item>
+                     <item>2 Seat and influences.</item>
+                     <item>3 Magnitude or greatneſs.</item>
+                     <item>4 Form, and one-neſſe.</item>
+                     <item>5 Motion, and</item>
+                     <item>6 Obedience.</item>
+                  </list>
+               </p>
+               <p>No wonder therefore that this name is accommoda<g ref="char:EOLhyphen"/>ted to him in Scripture.</p>
+               <p>And yet to make it out a little fuller: Do but conſider with me the next thing that we are to ſpeak to for the clea<g ref="char:EOLhyphen"/>ring of the firſt point, <hi>viz.</hi>
+               </p>
+               <p n="2">2 That <hi>Chriſt is the ſame to believers, as the Sun is to
+<pb n="13" facs="tcp:118209:10"/>the world.</hi> Thence it is that he is held forth to us by this notion in this place, and the places fore-cited; that I will not trouble you with the repetition of: Onely for the de<g ref="char:EOLhyphen"/>monſtration of it, conſider with me, what benefit the world, receiveth by the Sun, the like ſhall we find believers to re<g ref="char:EOLhyphen"/>ceive from Chriſt. Now among other things that the world receiveth from the firmamentary ſun, I ſhall inſiſt on theſe ſix: <hi>viz.</hi>
+                  <list>
+                     <item>1 Light.</item>
+                     <item>2 Life.</item>
+                     <item>3 Heat.</item>
+                     <item>4 Fruitfulneſſe.</item>
+                     <item>5 Comfort.</item>
+                     <item>6 Purity.</item>
+                  </list>
+               </p>
+               <p>All which Saints receive from Jeſus Chriſt, and therefore to every individuall, the promiſe may be repeated; <hi>Thy Sun ſhall no-more go down.</hi>
+               </p>
+               <p n="1">1. The firmamentary Sun is very operative to produce <hi>light,</hi> and diſpell darkneſſe. It is ſeated as it were in the center, navell, or heart of heaven, that it might impart its light to the ſtars that are above and below it, yea, and unto all the earth beſides. How quickly doth it in his approaches near unto our Horizon, much more at his coming up into it, drive out darkneſſe out of the air; and ferret it out of our houſes; It is the Steward of light. Now as <hi>aëriall light</hi> flowes from the ſun, ſo all <hi>ſpirituall light</hi> flowes from Jeſus Chriſt. It is he that filleth</p>
+               <p n="1">1 Goſpel Ordinances with light, and
+<note n="n" place="margin">Pſal. 19.8.</note> 
+                  <hi>maketh his word to be an enlightning word to the [mentall] eyes of his people.</hi>
+               </p>
+               <p n="2">2 He it is that filleth the ſouls of his elect with light, not onely with the light of naturall reaſon, where<g ref="char:EOLhyphen"/>withall
+<note n="a" place="margin">John 1.9.</note> 
+                  <hi>He fils all that come into this world:</hi> But with the light of grace; He that did command <hi>light</hi> to ſhine out of darkneſſe,
+<note n="b" place="margin">2 Cor. 4.6.</note> 
+                  <hi>'Tis he that ſhineth into our ſouls:</hi> He ſets up a light there, <hi>viz.</hi> the light of ſaving knowledge, and juſtifying faith; yea, and the
+<note n="c" place="margin">John 8.12.</note> 
+                  <hi>light of life too in</hi> the beginnings or it. The Sun naturall is as the Father of <hi>light naturall,</hi> and the Sun ſpirituall of <hi>light ſpirituall.</hi> Where<g ref="char:EOLhyphen"/>fore he ſaith,
+<note n="d" place="margin">Epheſ. 5.14.</note> 
+                  <hi>A wake thou that ſleepeſt, and ſtand up from the dead, and Chriſt ſhall give thee light.</hi>
+                  <note n="e" place="margin">Iſai. 60.2. <hi>Placaei diſp.</hi> 17. <hi>Pag.</hi> 179.</note> A paſſage cited out of this Chapter of <hi>Iſaiah; The Lord ſhall riſe upon thee,
+<pb n="14" facs="tcp:118209:11"/>and his glory ſhal be ſeen upon thee.</hi> The Apoſtle changeth on<g ref="char:EOLhyphen"/>ly the title <hi>Jehovah</hi> into <hi>Chriſt.</hi>
+               </p>
+               <p n="2">2 It produceth <hi>heat.</hi> Hence the Pſalmiſt tels us, that
+<note n="f" place="margin">Pſal. 195.</note> 
+                  <hi>there is nothing hid from the heat thereof.</hi> It is the heat of the ſun that warms the ſeeds, and roots of flowers, and ma<g ref="char:EOLhyphen"/>ny herbs in ſpring, that are in the womb of the earth, and draweth them out by his ſhinings: It's his heat that doth produce <hi>Minerals</hi> within, as well as <hi>vegetables</hi> upon the ſurface of the earth: Now what the Sun is in the King<g ref="char:EOLhyphen"/>dom of nature, that is Chriſt in the Kingdome of grace: It is he that by his word warmes the hearts within, of his people.</p>
+               <p n="1">1 Sometimes making them to yeild: As the hard Adamant by ſoking of it in the warm blood of a Goat; which (as ſome ſay) is rendred thereby apt to be worked upon; ſo the hard heart of a ſinner ſteeped in the warme <hi>blood of Chriſt,</hi>
+                  <note place="margin">Zach. 12.10.</note> fals preſently relenting that it may be wrought upon.</p>
+               <p n="2">2 Sometimes to melt as wax before the fire: As <hi>David</hi> found by experience,
+<note place="margin">Pſal. 22.14.</note> 
+                  <hi>My heart is like wax, it is melted in the midſt of my bowels.</hi> It is this that turneth an heart of ſtone into an heart of fleſh: according to that
+<note n="g" place="margin">Ezek. 36.26.</note> covenant<g ref="char:EOLhyphen"/>promiſe, <hi>I will take from them an heart of ſtone, and I will give unto them an heart of fleſh:</hi> A melting heart by reaſon of fear, is a great judgement, as we ſee in the
+<note n="h" place="margin">Exod. 15.15. Joſh. 2.11.</note> 
+                  <hi>Canaanites,</hi> and
+<note n="i" place="margin">Iſai. 19.1.</note> 
+                  <hi>Egyptians.</hi> But to have an heart melted by reaſon of ſin, ſeen through the glaſſe of the Goſpel, and the piercings of Jeſus Chriſt, is a tranſcendent mercy; As we ſee in
+<note n="k" place="margin">2 Kin. 22.19.</note> 
+                  <hi>Joſiah:</hi> Of whom we read, that <hi>his heart was tender, and therfore peniten<g ref="char:EOLhyphen"/>tially he humbleth himſelf before the Lord.</hi> It is the heat under the <hi>Limbeck,</hi> that maketh the water drop out of the head of the <hi>Limbeck:</hi> and it is the inward heat which we find from Jeſus Chriſt, that makes many times tears trickle down our eyes, <hi>becauſe men keep not God's laws.</hi> It was this that made <hi>David</hi> waſh his bed, and water his couch with tears.</p>
+               <p n="3">3 Sometimes it inflames them, and ſetteth their hearts a burning within them; That warmth that Chriſt put into his word did ſo far tranſcendently warm <hi>Jeremiah's</hi> heart,
+<pb n="15" facs="tcp:118209:11"/>that he profeſſeth,
+<note n="l" place="margin">Jer. 20.9.</note> 
+                  <hi>his word was in my heart, as a burning fire ſhut up in my bones; and I was weary with forbearing, and I could not ſtay. Fire will out.</hi> It was that which made the hearts of thoſe Diſciples ſo hot within them, that they brake out; <hi>Did not our hearts burn within us,</hi>
+                  <note place="margin">Luke 24.32.</note> 
+                  <hi>while he ſpake unto us by the way, and opened unto us the Scriptures?</hi> It is Chriſt that filleth us ſo with the fire of love, that all the waters of affliction cannot quench it.</p>
+               <p n="3">3 Sometimes it cauſeth <hi>life.</hi> How doth it draw out that plaſticall or formative power, which is to be found in ſeeds, making them to ſprout while they are under the clod, and thereby enquickning them? How doth it, as it were, every Spring call back roots and trees, out of their ſwoone or ſeeming deadneſſe, in which they lay all Winter long? The Sun by his beams carrieth down life unto them; yea, to us alſo in ſome reſpect: It is the ſun that concurreth as <hi>an u<g ref="char:EOLhyphen"/>niverſall cauſe</hi> to the generation of man,
+<note place="margin">Sol &amp; homo generant homi<g ref="char:EOLhyphen"/>nem.</note> and to his ſuppor<g ref="char:EOLhyphen"/>ting in the eſtate of nature: Did not the Sun ſo qualifie the aire with it's beams, it would be utterly unfit to generate or maintaine the vitall ſpirits in us: We owe indeed the <hi>life of nature,</hi> ſome way to the ſun in nature: But ſure I am, we owe the <hi>life of grace</hi> totally unto Jeſus Chriſt, this ſpiri<g ref="char:EOLhyphen"/>tuall Sun; Jeſus Chriſt is our
+<note n="m" place="margin">Col. 34.</note> 
+                  <hi>life,</hi> as well as our light; It is he that <hi>is a</hi>
+                  <note n="n" place="margin">1 Cor. 15.45.</note> 
+                  <hi>quickning Spirit.</hi> As no creature can poſſi<g ref="char:EOLhyphen"/>bly live without the benefit of the ſun; ſo neither can any Chriſtian live the life of grace without Jeſus Chriſt.</p>
+               <p n="4">4 It makes the earth very <hi>fruitful,</hi> it is the ſun that makes the trees to ſprout, and the graſſe to ſpring, corne to grow, and (in a word) that crowneth the earth with fruitful<g ref="char:EOLhyphen"/>neſſe. Our <hi>God gives</hi>
+                  <note n="o" place="margin">Acts 14.17.</note> 
+                  <hi>fruitfull ſeaſons in their ſeaſon, fil<g ref="char:EOLhyphen"/>ling our hearts with food and gladneſſe;</hi> chiefly, though not onely by the Suns means; whereby he doth renew the face of the earth, and bringeth precious things out of it. And is there any thing that makes a Chriſtian more
+<note n="p" place="margin">Philip. 1.11.</note> 
+                  <hi>fruit<g ref="char:EOLhyphen"/>full in the fruits of righteouſneſſe</hi> then Jeſus Chriſt? <hi>Without Chriſt,</hi> it is certain, <hi>we can do nothing,</hi>
+                  <note n="z" place="margin">Philip. 2.13.</note> 
+                  <hi>till he worketh in us both the will and the deed of his own good pleaſure.</hi> But when his bleſſing comes to our ſoules, the command of Chriſt
+<pb n="16" facs="tcp:118209:12"/>is operative as in the creation, when he ſaid,
+<note n="q" place="margin">Gen. 1.22.</note> 
+                  <hi>Be fruitfull:</hi> And it is he that by commanding, <hi>maketh us to be</hi>
+                  <note n="r" place="margin">Col. 1.10.</note> 
+                  <hi>fruitfull in every good work;</hi> and doth increaſe the fruits of righte<g ref="char:EOLhyphen"/>ouſneſſe in us: As all our wel-ſprings are in Chriſt, ſo all our fruitfulneſſe is from him.</p>
+               <p n="5">5 It bringeth <hi>comfort:</hi> How doth the ſight of the Sun in the open air cheer and revive the heart of a man newly drawn out of a dungeon; or that hath been a long time con<g ref="char:EOLhyphen"/>fined to his bed of ſickneſs? <hi>How</hi>
+                  <note n="ſ" place="margin">Eccleſ. 11.7.</note> 
+                  <hi>pleaſant</hi> then <hi>is it to be<g ref="char:EOLhyphen"/>hold the light of the Sun?</hi> Its light, and warmth, and all its influences are refreſhing unto us. It is not the promiſes, though never ſo cordiall, that can bring in comfort to our ſouls, unleſs they do receive a command from Jeſus Chriſt for this end and purpoſe: It is he that comforteth them that are caſt down. It is he that is the
+<note n="t" place="margin">Luk. 2.25.</note> 
+                  <hi>conſolation of Iſrael:</hi> and he comes furniſhed with a commiſſion from his Father, and was anointed by the Spirit, <hi>to bind up the broken heart, to proclaim liberty to the captives,</hi>
+                  <note place="margin">Iſa. 61.1, 2.</note> 
+                  <hi>the opening of the priſon to them that are bound; to proclaim the acceptable year of the Lord, and to comfort all that mourn.</hi> It is he that gives com<g ref="char:EOLhyphen"/>miſſion to his Ambaſſadors to go about comforting work; <hi>Comfort ye,</hi>
+                  <note place="margin">Iſa. 40.1, 2.</note> 
+                  <hi>comfort ye my people, (ſaith the Lord;) ſpeak ye to the heart of Jeruſalem, and preach, ſaying, Her warfare is accompliſhed, and her iniquities are pardoned, &amp;c.</hi> We may ſay of all other comforters, (if this Sun be abſent) as <hi>Job</hi> of his friends, <hi>Miſerable comforters are ye all.</hi> But if Chriſt be preſent, and all worldly comforts be abſent, we may then ſay as <hi>Jacob, I have enough;</hi> I have all. He is able to make our hearts to be brimfull and run over, by the comforting influ<g ref="char:EOLhyphen"/>ence of his own Spirit,
+<note place="margin">M<hi rend="sup">r</hi> 
+                     <hi>Ro. Glover.</hi>
+                  </note> as he did the heart of that Martyr, being full of comfort upon the ſight of the ſtake. <hi>He is come</hi> (Auguſtine) <hi>he is come, he is come.</hi>
+               </p>
+               <p n="6">6 It bringeth <hi>purity</hi> and healing. We ſee by ordinary ex<g ref="char:EOLhyphen"/>perience, how the Sun will as it were purge and heal the aire, that was infected with peſtilentiall breathings; and how it clarifieth it, that was overrun with fogs and miſts (things that are unwholſom to the body of man.) And is there any thing that will ſo purge the heart, as Jeſus Chriſt
+<pb n="17" facs="tcp:118209:12"/>will? When he is as Refiners fire, and Fullers Sope; when he ſitteth to purifie the hearts of the houſe of <hi>Levi,</hi> whom he doth intend to make ſpirituall Prieſts unto his Father. How doth he cry to his Spirit, as <hi>Hezekiah</hi> in another caſe,
+<note place="margin">2 Chron. 29.5.</note> 
+                  <hi>have out the filthineſſe out of the holy place.</hi> When once he begins to ſprinkle clean Covenant-water upon us,
+<note place="margin">Ezek. 36.26.</note> 
+                  <hi>from all our filthineſſe he will cleanſe us.</hi>
+                  <note place="margin">Iſa. 1.25.</note> It is he that is able to <hi>purge away all our droſſe, and take away all our tin, and to purifie us to himſelf a peculiar people, zealous of good works.</hi>
+                  <note place="margin">Tit. 2.14.</note> When this Sun of righteouſneſſe doth ariſe,
+<note place="margin">Mal. 4.2.</note> 
+                  <hi>he doth ariſe with heal<g ref="char:EOLhyphen"/>ing in his wings.</hi> Whereby he regenerateth us, and reneweth us after the Image of God, and beginneth here the cure of our corruptions, though the perfecting of the cure be reſer<g ref="char:EOLhyphen"/>ved for heaven.</p>
+               <p>Thus we ſee, the myſticall Sun, Jeſus Chriſt, to be the ſame to beleevers, as the Sun in the firmament to the world, upon point of benefit; giving to them,
+<list>
+                     <item>1 Light.</item>
+                     <item>2 Heat.</item>
+                     <item>3 Life.</item>
+                     <item>4 Fruitfulneſſe.</item>
+                     <item>5 Comfort.</item>
+                     <item>6 Healing.</item>
+                  </list>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Qu. </seg>
+                  </label> But how may I know whether I have a right of pro<g ref="char:EOLhyphen"/>priety in this Sun or not; that ſo I may be able to judge, whether this cordiall paſſage doth belong unto me or not? <hi>Thy Sun ſhall no more go down.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>
+                  </label> For anſwer hereof, I ſhall onely offer to your conſi<g ref="char:EOLhyphen"/>derations, ſome hints from theſe ſix properties, whereby you may be able to judge of your intereſt in this Sun. And let conſcience briefly anſwer to theſe interrogations: <hi>viz.</hi> Hath Chriſt,</p>
+               <p n="1">1 Come in with enlightening influence to my ſoul? There was a time, when I ſate in the region of the valley of the ſha<g ref="char:EOLhyphen"/>dow of death, when I was in another <hi>Egypt</hi> for darkneſſe; but light is now riſen unto me, and I am removed into ano<g ref="char:EOLhyphen"/>ther <hi>Goſhen;</hi>
+                  <note place="margin">Col. 1.13.</note> 
+                  <hi>He hath brought me out of the kingdome of dark<g ref="char:EOLhyphen"/>neſſe, and tranſlated me into the kingdome of his dear Son.</hi> He hath communicated of <hi>thoſe treaſures of wiſdome and know<g ref="char:EOLhyphen"/>ledge unto me;</hi>
+                  <note place="margin">Col. 2.3.</note> whereby though he have not made me poli<g ref="char:EOLhyphen"/>tickly, craftily, cunningly, worldly wiſe, in the things of this
+<pb n="18" facs="tcp:118209:13"/>life, to over-reach or circumvent others, or to enrich my ſelf by indirect ways; yet he hath made me ſavingly wiſe, or wiſe unto ſalvation. He hath diſcovered himſelf in the face of Jeſus Chriſt unto me. Yea, he hath ſhewen me my ſelf in the glaſſe of his Word, how miſerable I was by nature; how happy by my intereſt in Jeſus Chriſt. And all this light filleth me with love to Jeſus Chriſt, and maketh me more humble in mine own eyes, becauſe the little that I know, is not the thouſand part of what I know not. He hath made me, with <hi>Mary,</hi> thus wiſe, as to chooſe the <hi>better part, that one thing neceſſary;</hi> and with <hi>Moſes,</hi> deliberately to chooſe to ſuffer afflictions with the people of God, rather then to en<g ref="char:EOLhyphen"/>joy the pleaſures of ſin for a ſeaſon. And with <hi>David, to take his word to be a lamp to my feet,</hi>
+                  <note place="margin">Pſal. 119.</note> 
+                  <hi>and a light to my paths.</hi> I can now ſay experimentally, <hi>Whereas I was born blinde, now I ſee.</hi>
+               </p>
+               <p n="2">2 Warmed my heart with divineſt love, which like the fire of the Sanctuary, is alwaies burning within me, break<g ref="char:EOLhyphen"/>ing forth in flames of piety towards God in Chriſt, and of humanity, courteſie, kindneſſe towards men, eſpecially to<g ref="char:EOLhyphen"/>ward Saints?
+<note place="margin">Exod. 2.</note> Do I finde it <hi>to be as the fire in the buſh, that conſumed it not, though it continued burning?</hi> Yea, that all the waters of affliction or perſecution cannotſlack, much leſſe extinguiſh my love unto Jeſus Chriſt? He hath ſo ſhed abroad his love in my ſoul,
+<note place="margin">Acts 21 13.</note> that makes me willing <hi>to do and dye</hi> for Chriſt. Now how your pulſes beat this way as Chriſtians, let conſcience judg And for you <hi>(Right Hon.)</hi> that are intruſted with the government of this great city, there is expected from you, not onely warmth of love, but a peculiar fire of zeal to promote the glory of God,
+<note place="margin">Pſal. 69.9.</note> as you ſee in <hi>David, The zeal of thy houſe hath eaten me up.</hi> When obſerving the Ordi<g ref="char:EOLhyphen"/>nances to be contemned, the Name of God blaſphemed, Sabbaths profaned, Religion trampled under feet; zeale then inforceth him, yea even conſumeth him, for the pro<g ref="char:EOLhyphen"/>moting of the glory of God. You that are the Magiſtrates in this renowned City, conſult your own conſciences in this particular.</p>
+               <p n="3">3 Come in with life? 'Twas my condition when I was in
+<pb n="19" facs="tcp:118209:13"/>my naturall eſtate, as it was with <hi>Lazarus</hi> ſome way, when buried. I did once lie in <hi>the grave of my ſins,</hi> as he <hi>in the grave of the earth.</hi> Hath Chriſt enlivened and enquickned me to newneſſe of life? Can I ſay truly as <hi>Paul, I live, yet not I,</hi>
+                  <note place="margin">Gal. 2.20.</note> 
+                  <hi>but Chriſt liveth in me; and the life that I now live, I live by the faith of the Son of God, that hath given himſelf for me?</hi> Doth this life from Chriſt make me lively in all duties for Chriſt; that ſo I may ſerve God in my generation, either in a way of Magiſtracy, Miniſtry, or in a private orbe or ſtation?</p>
+               <p n="4">4 Made me any way fruitfull? Doth the ſpring of grace come as faſt forward in my ſoul, as the ſpring of nature now on the earth? doth he make me fruitfull, as a good</p>
+               <p n="1">1 Magiſtrate:
+<note place="margin">Exod. 18.21.</note> to bring forth the fruits <hi>of the feare of my God, of truth, righteouſneſſe, of courage and judgement; cau<g ref="char:EOLhyphen"/>ſing me to hate covetuouſneſſe, and reject bribes,</hi>
+                  <note place="margin">Exod. 23.8.</note> which do <hi>blinde the wiſe, and pervert the words of the righteous?</hi> Hath he begot in me deſires to ſee the ſanctifying of the Lords ſab<g ref="char:EOLhyphen"/>bath; to countenance Religion; and to be a terrour to them that do evil, and an encourager of them that do wel?</p>
+               <p n="2">2 Miniſter. Hath he begot in me unfeigned deſires to propagate the Goſpel of Jeſus Chriſt, and faithfully to feed the flock, over which the Lord hath ſet me; rightly dividing the word unto them, without reſpect of perſons; and that by my life and converſation, I may be a pattern to the flock, in Faith, Doctrine, and Purity; leſt otherwiſe I ſhould prove like one of the Carpenters that built <hi>Noah</hi>'s Ark, who build<g ref="char:EOLhyphen"/>ing it for anothers ſafety, were themſelves drowned?</p>
+               <p n="3">3 Private Chriſtian.
+<note place="margin">Epheſ. 6.4.</note> Labouring as a <hi>Father</hi> to traine up my children in the nurture and admonition of the Lord; As a <hi>Huſband,</hi>
+                  <note place="margin">1 Pet. 3.7</note> to dwell with my yoke-fellow as a man of knowledge; and as a <hi>Maſter,</hi>
+                  <note place="margin">Col. 4.1.</note> to do that which is equall and juſt for my ſervants, having care for their ſouls, whoſe bodies labour daily for me. And above all, watching over mine own wayes, and walking with my God continually, bring<g ref="char:EOLhyphen"/>ing forth all thoſe Goſpel fruits,
+<note place="margin">Gal. 5.22</note> even the <hi>fruits of the Spi<g ref="char:EOLhyphen"/>rit,</hi> as love, joy, peace, long-ſuffering, gentleneſſe, good<g ref="char:EOLhyphen"/>neſſe,
+<pb n="20" facs="tcp:118209:14"/>faith,
+<note place="margin">Gal. 5.23. <hi>Non eſt lex, nempe damna<g ref="char:EOLhyphen"/>toria.</hi> Paraeus.</note> meekneſſe, temperance, <hi>againſt which there is no law, viz.</hi> to condemn them.</p>
+               <p n="5">5 Brought in ſolid Goſpel-comforts and reviving influen<g ref="char:EOLhyphen"/>ces to my ſoul? when my ſpirit hath been overwhelmed, then the comforts of my God have rejoyced my heart. Have we found,
+<note place="margin">2 Cor. 5.</note> that as our <hi>ſufferings</hi> have abounded for Chriſt, ſo our conſolation alſo hath abounded by Chriſt? Have we found, the <hi>hotter the day, the greater the dew</hi> at night; the hotter the time of trouble, the greater the dews of refreſh<g ref="char:EOLhyphen"/>ing from our God? Ask what experience this way, and let conſcience give anſwer.</p>
+               <p n="6">6 Hath Chriſt ariſen <hi>with healing in his wings</hi> to thy ſoul or no; healing thee of thy pride, paſſions, infidelity, impe<g ref="char:EOLhyphen"/>nitency, worldlineſſe, hardneſſe of heart, prejudice? In a word, hath he given a deaths-wound to all thy corruptions? and doth he begin to <hi>purifie</hi> and cleanſe <hi>thy heart by faith</hi> every day more and more?
+<note place="margin">Acts 15.9.</note> If conſcience, rightly principled, can but aſſure thee, that thou haſt received <hi>Goſpe-light, heat, life, comfort, healing,</hi> and <hi>art rendered Goſpelly fruitfull</hi> in all the fruits of renewed obedience; thou mayeſt aſ<g ref="char:EOLhyphen"/>ſure thy ſelf, that the truth of this promiſe will be made good unto thee, that <hi>thy Sun ſhall never go down any more.</hi> Which leadeth me now to the ſecond Obſervation.</p>
+            </div>
+            <div type="part">
+               <p>
+                  <label>Doct. 2.</label> 
+                  <hi>That however Jeſus Chriſt, this true myſticall Sun, may ſometimes be eclipſed from, yet he will never go down any more to his people.</hi>
+               </p>
+               <p>It cannot be denied, but that Jeſus Chriſt, this Sun, may be eclipſed in reſpect of us. Aſtronomers tell us, that eclip<g ref="char:EOLhyphen"/>ſes do properly belong to the Moon, becauſe that only totally may be deprived of light, <hi>viz.</hi> when it cometh into the ſha<g ref="char:EOLhyphen"/>dow of the earth; which yet never aſcendeth ſo high as any other Planet, to eclipſe it wholly. I ſhall yet make uſe of this <hi>non-ſcripturall term,</hi> in reſpect of the notion of it, for want of a better.</p>
+               <p>Eclipſes are nothing but the occultation, or hiding of any Star from our aſpect; cauſed either by interpoſition of the Moon between us and the Sun, as in <hi>Solar;</hi> and of the earth between the Sun and the Moon, in all <hi>Lunar</hi> Eclipſes. There
+<pb n="21" facs="tcp:118209:14"/>may many things intervene between us and Jeſus Chriſt, that may hinder his beams from flowing in upon us:
+<note place="margin">
+                     <hi>In defectu, Sol ipſe nihil pati<g ref="char:EOLhyphen"/>tur, ſed noſter fraudatur aſpe<g ref="char:EOLhyphen"/>ctus,</hi> Macrob.</note> Now Chriſt may ſeem to be offuſcated, in reſpect,
+<list>
+                     <item>1 Of <hi>himſelfe,</hi> when his glory, power, or truth are eclipſed.</item>
+                     <item>2 Of <hi>us,</hi> when as our graces and comforts are be<g ref="char:EOLhyphen"/>clouded.</item>
+                  </list>
+               </p>
+               <p n="1">1 In reſpect of <hi>himſelfe,</hi> Chriſt may ſeeme to ſuffer an eclipſe in reference to his own.</p>
+               <p n="1">1 <hi>Glory:</hi> thus, when he came abroad into the world at the firſt,
+<note n="n" place="margin">John 11.11.</note> 
+                  <hi>He came to his own, but his own recei<g ref="char:EOLhyphen"/>ved him not;</hi> and that mainely upon this account, becauſe his glory was veiled and hidden from them:
+<note n="o" place="margin">Iſai. 53.2.</note> 
+                  <hi>They could ſee no beauty in him, why they ſhould deſire him.</hi> The Prophet giveth there the ſenſe of the people: They looked upon him, as a poor, deſpiſed, meer man, and that had nothing of worth in him. Indeed, <hi>to believers, Chriſt is alwayes precious;</hi>
+                  <note place="margin">1 Pet. 2.7.</note> they have an eye open to ſee his glory, and admire his excellen<g ref="char:EOLhyphen"/>cy. As a Painter may have an eye open to ſee the worth of a piece, that another may lightly eſteem; not becauſe there is not excellency in it, but becauſe an injudicious man in that art wanteth eyes for to diſcern it. <hi>Jeſus</hi>
+                  <note n="p" place="margin">Cant. 5.10.16</note> 
+                  <hi>Chriſt is to believers altogether lovely, the ſtandard-bearer among ten thouſands.</hi> Yet it muſt be confeſſed, the glory of Chriſt was mightily eclipſed, when his Deity was veiled under the frail fabrick of mans humanity.</p>
+               <p n="2">2 <hi>Power;</hi> when he ſeemingly ſuffered,</p>
+               <p n="1">1 Himſelfe to be over-powred on earth; to be appre<g ref="char:EOLhyphen"/>hended, buffeted, ſcourged, and crucified; to ſee him that was the <hi>Creatour of nature,</hi> to ſuffer death <hi>by his ſinfull crea<g ref="char:EOLhyphen"/>tures;</hi> this was that which brought that
+<note n="q" place="margin">Luke 24.21.</note> diſciples faith to a low ebbe; when he thus ſpake, <hi>We hoped that it had been he that ſhould have redeemed Iſrael, viz.</hi> by his power. He looked for a temporall ſaviour from the <hi>Romane</hi> yoke. But ſeeing the Power of Chriſt to be eclipſed, he ſcarce knoweh what to ſay or hope for.</p>
+               <p n="2">2 When Chriſt ſuffereth his <hi>own people</hi> to be as they were in <hi>Davids</hi> time.</p>
+               <pb n="22" facs="tcp:118209:15"/>
+               <list>
+                  <item>1 Driven back, or
+<note n="r" place="margin">Pſal. 44.10.</note> 
+                     <hi>routed</hi> in the day of their encoun<g ref="char:EOLhyphen"/>ter with their enemies, being ſmitten with Panick fear, and not able to ſtand under it.</item>
+                  <item>2<hi rend="sup">ly</hi>, Pillaged and plundered, given up to the will and luſt of their enemies.</item>
+                  <item>3<hi rend="sup">ly</hi>, Scattered up and down among the heathen; driven out of their own habitations: <hi>made a reproaah to their neighbours,</hi>
+                     <note n="ſ" place="margin">Pſal. 44.13, 14.</note> 
+                     <hi>a proverb and a hiſſing to all that are about them:</hi> Yea</item>
+                  <item>4<hi rend="sup">ly</hi>,
+<note n="t" place="margin">Rom. 8.36.</note> 
+                     <hi>All the day long to be killed, and appointed as ſheep for the ſlaughter.</hi> When Saints are maſſacred, and perſecutours no more troubled, then butchers at the killing of ſheep: Jeſus Chriſt in all theſe ſeemeth to be under an Eclipſe, in regard of his own power, at leaſt in our apprehenſion; which maketh the Church to cry out,
+<note n="u" place="margin">Pſal. 44.23, 24.</note> 
+                     <hi>Awake, thou that ſleepeſt, O Lord, ariſe, wherefore doſt thou caſt us off for ever? where<g ref="char:EOLhyphen"/>fore hideſt thou thy face, and forgetteſt our affliction, and oppreſsion?</hi>
+                     <note n="*" place="margin">Pſal. 142.4.</note> 
+                     <hi>When we look upon the right hand, and there is none to ſave; and on the left hand, and there is none to deliver, and refuge faileth from our ſouls.</hi> The power of Jeſus Chriſt ſeemeth to be in the eclipſe in reſpect of his people, when he reſcueth not in tentations, and in outward troubles he doth not deliver them.</item>
+               </list>
+               <p n="3">3 <hi>Truth:</hi> The <hi>truth</hi> of Chriſt may be much obnubilated,
+<note n="x" place="margin">Rev. 8.12.</note> Thus Chriſt ſomtimes <hi>ſuffered the third part of the Sun to be ſmitten, and the third part of the Moon, and the third part of the Stars; ſo that a third part of them were darkened;</hi> becauſe the ſun of Goſpel-truth ſhined not, but was hidden; and the Moon repreſenting the Church, and the ſtars repreſen<g ref="char:EOLhyphen"/>ting the Miniſters in it, were ſmitten, and loſt much of their light.
+<note n="y" place="margin">Rev. 9.2.</note> 
+                  <hi>When Antichriſt openeth the bottomleſſe pit, and there ariſeth a ſmoak out of the pit, like the ſmoak of a great fur<g ref="char:EOLhyphen"/>nace,</hi> it cauſeth an Eclipſe of the Sun of truth, by reaſon of errours, ſuperſtitions, idols, and thereby an inundation of ſin: Truth was hereby obſcured, yea, a totall eclipſe by an inundation of errours, and by a generall apoſtacy; As
+<pb n="23" facs="tcp:118209:15"/>in that Apoſtolicall Church,
+<note n="z" place="margin">Rev. 6.12.</note> 
+                  <hi>When the Sun became black as ſackcloth of hair:</hi> When men's inventions were mingled with the doctrine and merit of Jeſus Chriſt, what a totall eclipſe did the truth of Jeſus Chriſt then meet with<g ref="char:EOLhyphen"/>all?</p>
+               <p n="2">2 In regard of <hi>us;</hi> Chriſt may ſeemingly be eclipſed.</p>
+               <p n="1">1 When his graces are partially beclouded in us; as there is no ſtar in the firmament, but is capable of an eclipſe, ſo there is no grace in the ſoule but may be much darkned. A mans knowledge and faith may not onely be in the wain, but in the eclipſe; ſo that though he have Chriſt in the pro<g ref="char:EOLhyphen"/>miſe, he ſhall not be able to diſcerne him: no more then thoſe
+<note n="a" place="margin">Luke 24.16.</note> 
+                  <hi>diſciples going to Emaus;</hi> when their eyes were held that they ſhould not ſee his perſon, <hi>i.e.</hi> know it. A ſtrange detention! When it is with us, as it was with <hi>Mary,</hi> with her blubbered eyes; who miſtaketh Chriſt for the Gardener. Or as it was
+<note n="b" place="margin">John 20.25.</note> with <hi>Hagar,</hi> that had a fountain of water be<g ref="char:EOLhyphen"/>fore her,
+<note n="c" place="margin">Gen. 21.19.</note> yet could not ſee it till God was pleaſed to open her eyes. Chriſt may hide himſelfe from our hearts, that knowledge or faith ſhall not be able to reach him. And as it is with knowledge and faith, ſo it is with hope too; as we ſee in thoſe diſciples fore-mentioned, going to <hi>Emaus, We hoped that it was he that ſhould have redeemea Iſrael:</hi> and as it was with the Church in <hi>Jeremiah's</hi> time, <hi>We have loo<g ref="char:EOLhyphen"/>ked,</hi> (i.e. <hi>we hoped) for good, but no good came, and for a time of healing, but behold trouble;</hi> and deſpondingly men are ready to ſay,
+<note n="d" place="margin">Jor. 8.20, 15.</note> 
+                  <hi>The harveſt is paſt, the ſummer is ended, and we are not ſaved.</hi> Saints hopes may be ready, in regard of temporals, to give up the ghoſt, as it was ſometimes with <hi>Paul,</hi> who profeſſed that <hi>all</hi>
+                  <note n="e" place="margin">Acts 27.20.</note> 
+                  <hi>hopes that we ſhould be<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſaved were now taken away.</hi> And the like I might inſtance in all other graces. But I muſt haſten.</p>
+               <p n="2">2 In regard of comforts, which may be totally eclipſed,
+<note n="f" place="margin">Job 13.24.</note> 
+                  <hi>When God doth either hide his face;</hi> whereof <hi>Job</hi> doth bit<g ref="char:EOLhyphen"/>terly complain, <hi>Wherefore hideſt thou thy face, and holdeſt me for thine enemy? thou writeſt bitter things againſt me, and makeſt me poſſeſſe the iniquities of my youth.</hi> This was that which drained ſo many tears from the Church
+<note n="g" place="margin">Pſal. 44.24 &amp; 88.14</note> in <hi>David's</hi>
+                  <pb n="24" facs="tcp:118209:16"/>time, and from <hi>David</hi> with the Church; <hi>Wherefore hideſt thou thy face, &amp;c?</hi> And in <hi>Iſaiah's</hi> time, <hi>Thou art a God that hideſt thy ſelfe.</hi> Bitter it was to
+<note n="h" place="margin">2 Sam. 14.32.</note> 
+                  <hi>Abſalom</hi> to be deprived of the ſight of the face of <hi>David,</hi> ſo that he would rather put himſelfe upon the viſible hazard of death, then to be any longer without it: But infinitely more bitter it is to a Saint to be deprived of the face and favour of God. This draws out thoſe mournful complaints,
+<note n="i" place="margin">Pſal. 13.1. &amp; 89.46.</note> 
+                  <hi>How long wilt thou hide thy face from me? for ever?</hi> But however this be true, that there may bee <hi>partial eclipſes</hi> of many graces, and <hi>total eclipſes</hi> of many comforts: Yet this Sun being once up in the Hori<g ref="char:EOLhyphen"/>zon of our ſouls, will never any more go down from us; What elſe is the meaning of thoſe promiſes, that I ſhall only uſe to confirme this truth withall? This in the text is ſo plain, that whoever runs may read it, that once being riſen in our hearts, he will never ſet any more unto us: And he that will not take Gods word in one place, will take it in no place. To which I might adde (if neceſſary)
+<note n="k" place="margin">Matth. 28.20</note> 
+                  <hi>Behold, I am with you alwayes, to the end of the world.</hi> A promiſe not only extenſive to the Apoſtles, for ſpeciall preſence; or Mi<g ref="char:EOLhyphen"/>niſters, the faithfull Diſpenſers of his word, their ſucceſſors; but to all of them that were to believe by their Miniſtry: And that promiſe,
+<note n="l" place="margin">Heb. 13.5.</note> 
+                  <hi>I will never leave thee, nor forſake thee:</hi> A promiſe firſt paſt to
+<note n="m" place="margin">Gen. 28.15.</note> 
+                  <hi>Jacob,</hi> then to
+<note n="n" place="margin">Joſh. 1.5.</note> 
+                  <hi>Joſhuah;</hi> but yet for the people of
+<note n="o" place="margin">1 Sam. 12.22</note> 
+                  <hi>Iſraels</hi> ſake, which were a lively figure of Chriſtians. And therefore by the Apoſtle it is extended to all believers: <hi>q. d.</hi> It cannot be that I ſhould leave thee, or deſert thee: Well I may ſometimes be beclouded and e<g ref="char:EOLhyphen"/>clipſed from thee, yet I will never leave thee totally. This is the <hi>baſis</hi> of the Apoſtles confidence;
+<note n="p" place="margin">Philip. 1.6.</note> 
+                  <hi>He that hath begun a good work in you, will performe it.</hi> When he layeth the foundations of the buildings of grace, he doth not deſert his work, but he will ſtand by it, and carry it on, and that for ever. Hence it is, that Chriſt, when he takes poſſeſſion of the ſoul, he comes to
+<note n="q" place="margin">John 14.23. 1 Cor. 3.16.6.19.</note> 
+                  <hi>abide in the ſoul:</hi> And abiding (we know) implieth continuance of reſidence. He dwels here as in his houſe, habitation, or temple. 'Twas a pro<g ref="char:EOLhyphen"/>miſe of his to <hi>abide in</hi>
+                  <note n="r" place="margin">Pſal. 68.16.</note> 
+                  <hi>Mount Sion for ever;</hi> that was for
+<pb n="25" facs="tcp:118209:16"/>that periodicall <hi>ever</hi> of Chriſt's coming in the fleſh. But
+<note n="ſ" place="margin">John 14.23.</note> 
+                  <hi>Chriſt promiſeth abſolutely to abide for ever with his people by his ſpirit.</hi> He will be alwayes with us by his word, where<g ref="char:EOLhyphen"/>by he hath made himſelfe known in a covenant-way, and by his ſpirit to regenerate and ſanctifie us to eternall life, by his ſpeciall preſence and power, preſerving and ſecuring us in all the <hi>colliſions, combuſtions, confuſions</hi> that are in the world. God engaging himſelfe,
+<note n="t" place="margin">Iſai. 46.4.</note> 
+                  <hi>That as he hath borne us from the belly, and carried us from the womb; ſo even to our old age, and hoary hairs, he will carry us.</hi>
+                  <note n="u" place="margin">Pſal. 73.24.</note> 
+                  <hi>And he will guide us by his counſel, till he do receive us to glory.</hi>
+               </p>
+               <p>As the hils ſtand about <hi>Jeruſalem,</hi> ſo the Lord ſtands a<g ref="char:EOLhyphen"/>bout his people from this time forth even for ever. Now we know <hi>that God is not as man that he ſhould lie,</hi>
+                  <note place="margin">Num. 23.19.</note> 
+                  <hi>and as the Son of man that he ſhould repent. Hath he ſaid it, and ſhall he not do it? Hath he ſpoken it, and ſhall he not bring it to paſſe?</hi> Theſe and many other promiſes that lie ſcattered up and down throughout the Book of God, are far more unalterable then the Lawes of the <hi>Medes</hi> and <hi>Perſians;</hi> upon which we may ſafely reſt for our eternal ſecurity; that Chriſt will not go down from us, in regard of his ſpecial preſence. And for the preſence of all his graces, that are abſolutely neceſſary unto ſalvation; However they may come into an eclipſe,
+<note n="*" place="margin">Iſa. 53.10, 11.</note> yet Chriſt will never finally take them from us; becauſe <hi>the gifts and the calling of God are without repentance.</hi>
+                  <note place="margin">Pſal. 125.2.</note> That gift of God, whereby he hath ſet us apart in his own counſell is unalterable and unchangeable; as being bottomed upon his eternall grace, love and mercy.
+<note place="margin">Numb. 13.19.</note> Heaven and earth may change, but our God never changeth upon point of affe<g ref="char:EOLhyphen"/>ction toward his people. Beſides, the purchaſe of Jeſus Chriſt, whereby he hath bought us to be to himſelfe a pecu<g ref="char:EOLhyphen"/>liar people, that ſtands ſtill in force, and ſhall never be made void, being founded upon that <hi>unalterable</hi>
+                  <note n="*" place="margin">Iſa. 53.10, 11</note> 
+                  <hi>tranſ<g ref="char:EOLhyphen"/>action with his Father in the behalfe of us.</hi> But I muſt wave the inlarging of all theſe.</p>
+               <p>Now for the improvement of all: Theſe points may be improved.</p>
+               <p n="1">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>1</label> 1 By way of <hi>diſcovery:</hi> of which before, <hi>pag.</hi> 17.</p>
+               <pb n="26" facs="tcp:118209:17"/>
+               <p n="2">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>2</label> 2 By way of <hi>comfort,</hi> to every one of you, to whom this ſun hath ariſen, and the day-ſtar hath appeared in your hearts. To you I mean, that can make it out by former diſcoveries, even to as many <hi>as</hi>
+                  <note n="z" place="margin">Hoſ. 3.5.</note> 
+                  <hi>fear his name, fearing him and his goodneſſe,</hi> or becauſe he hath been good and gracious unto you: Thou that feareſt to offend or provoke him (as a dutifull child) a loving Father, becauſe he hath been boun<g ref="char:EOLhyphen"/>tifull to thee, which makes thee to cry out, being ſolicited to ſin, as <hi>Joſeph</hi> did,
+<note n="a" place="margin">Gen. 39.9.</note> 
+                  <hi>How ſhall I do this great wickedneſſe, and ſo ſin againſt God?</hi> If Chriſt this true myſticall Sun, bee ariſen in thine heart, he will never ſet in regard of thoſe radicall graces, at leaſt, conferred upon thee.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obj. </seg>1</label> But you ſay, that Chriſt will never go down, when once he doth ariſe to us; but alas, we find the contrary: If Chriſt be in us, whence then are all theſe evils upon us; how cometh it to paſſe that all our comforts are departed, and the love of Jeſus Chriſt ſeemeth to be gone from our ſouls?</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>
+                  </label> For anſwer hereof, note, That <hi>Chriſt may be preſent, though his comforts be abſent.</hi> The Sun is in the firmament, though he be eclipſed. Comforts are ecilpſed upon a dou<g ref="char:EOLhyphen"/>ble ground.</p>
+               <p n="1">1. Sometimes in a Prerogative way, when Chriſt doth with-draw himſelf from comforting of us; and this eclipſe is not much unlike that at the paſſion of Jeſus Chriſt, an e<g ref="char:EOLhyphen"/>clipſe not naturall, but
+<note n="b" place="margin">
+                     <hi>Aquin.</hi> 3<hi rend="sup">a</hi> 
+                     <hi>q.</hi> 44.2. 2<hi rend="sup">d</hi>a.</note> miraculous: Whither you reſpect,</p>
+               <p n="1">1. The durance; for three whole hours, which no naturall eclipſe doth laſt; becauſe of the greatneſſe of the Sun, and the ſmaleneſs of the Moon, and the quickneſs of her motion.</p>
+               <p n="2">2. The time;
+<note place="margin">Aug. lib. 3. de civ. Dei, cap. 15</note> in the full of the Moon; becauſe it was then the <hi>Jewiſh</hi> Paſſeover; and <hi>Solar</hi> eclipſes are alwayes confined to the
+<note n="c" place="margin">
+                     <hi>Melancthon. in</hi> John 19. <hi>milli</hi> pag. 867. <hi>parte tertii.</hi>
+                  </note> new of the Moon naturally; which made that
+<note n="d" place="margin">Dionyſius A<g ref="char:EOLhyphen"/>reopagita.</note> Philoſopher to crie out, that either nature, or the God of nature did ſuffer, at the ſight of that eclipſe: Though I cannot approve of his obſerving of the Moons getting be<g ref="char:EOLhyphen"/>tween us, and the Sun.</p>
+               <p n="3">3. The univerſality; It was generall, not only in <hi>Judea,</hi> but in all the world, as is
+<note n="e" place="margin">Gerbard.</note> probably conjectured. Whereas no <hi>Solar</hi> eclipſe can be <hi>univerſall</hi> in all the world, though it may be <hi>totall</hi> in one part.</p>
+               <pb n="27" facs="tcp:118209:17"/>
+               <p>The Eclipſe at the ſuffering of Jeſus Chriſt, was by the <hi>inhibition of the beams of it</hi> by the God of nature, who,
+<note place="margin">Aquinas in Catanâ.</note> as he can withhold the fire from burning, the water from drowning; ſo the Sun from ſhining for a time.
+<note n="f" place="margin">
+                     <hi>Videtur mihi clariſſimum mundi lumen retraxiſſe ra<g ref="char:EOLhyphen"/>dios ſuos, ne aut pendentem vi<g ref="char:EOLhyphen"/>deret Dominum, &amp; impii blaſ<g ref="char:EOLhyphen"/>phemantes, luce ſuâ fruerentur.</hi> Hieronym. lib. 4<hi rend="sup">o</hi>. in Matthae<g ref="char:EOLhyphen"/>um.</note> Hee puts out ſeemingly the eye of the world, as being unwilling to behold the wickedneſſe then committing.
+<note n="g" place="margin">Dionyſ. Arec<g ref="char:EOLhyphen"/>pag.</note> Some have fancied, that God fetched back the Moon at the paſſion of Chriſt, in a <hi>retrograde</hi> way; as he did do the Sun upon the diall of <hi>Ahaz:</hi> but that ſeems improbable; for then that eclipſe had been naturall, in reſpect of the Sun, not ſupernatu<g ref="char:EOLhyphen"/>ral. I rather look upon it as an eclipſe in a way of meer prero<g ref="char:EOLhyphen"/>gative, or
+<note n="h" place="margin">Melancthon.</note> miracle; and ſo Chriſt may withhold all his own rayes and beams of comfort, that none ſhal look down upon us; for the exerciſe of the graces which he hath already con<g ref="char:EOLhyphen"/>ferred upon us.</p>
+               <p n="2">2. Sometimes eclipſes ſpring from naturall cauſes; as the interpoſition of the body of the earth; when the Sun and Moon ſtand diametrally opoſite, and the ſhade of the earth is darted up to her: this cauſeth the <hi>Lunar</hi> eclipſe. And ſo when the denſe body of the Moon interpoſeth it ſelfe be<g ref="char:EOLhyphen"/>tween us and the Sun, it cauſeth a <hi>Solar</hi> eclipſe. Theſe are the naturall cauſes of them. And ſo it is in regard of our ſpirituall eclipſes, when as the condenſated clouds of our ſins aſcend over our heads, and ſtand as the Moon between us and Chriſt, preſently we come into an eclipſe, in regard of our comfort. <hi>Your iniquities</hi> (as the Prophet ſaith)
+<note n="i" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> 
+                  <hi>ſe<g ref="char:EOLhyphen"/>perate between you and your God, and your ſins</hi>
+                  <note n="k" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Iſai. 59.2.</note> 
+                  <hi>hide away his face from you.</hi> The Prophet ſeemeth to make uſe of eclip<g ref="char:EOLhyphen"/>ticall expreſſions: for ſo it is that our ſins make our God to
+<note n="l" place="margin">Lam. 4.44.</note> hide himſelfe under a cloud, that our prayers can<g ref="char:EOLhyphen"/>not come at him. See therefore the cauſe of the eclipſe of thy comforts, it may be ſome ſin will be found, that doth interpoſe it ſelfe between thee, and the Sun of all thy com<g ref="char:EOLhyphen"/>forts.</p>
+               <p>If thou findeſt ſin in the wind, remove it away by repen<g ref="char:EOLhyphen"/>tance, that thy comforts may flow down again upon thee.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obj. </seg>2</label> But the Eclipſes of my comforts are very terrible and dreadfull; and it may prove prodigious too.</p>
+               <pb n="28" facs="tcp:118209:18"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>
+                  </label> I deny not but it is in ſpirituall eclipſes as in the eclipſes of the Sun. They are</p>
+               <p n="1">1. Very dreadfull in themſelves, when totall, though our God would not have his people diſmayed at them;
+<note n="m" place="margin">Jerem. 10.2.</note> 
+                  <hi>Learn ye not the way of the heathen, neither be ye diſmayed at the ſignes of heaven, for the heathen are diſmayed at them.</hi> If God doth eclipſe our comforts, he would not have us to ſorrow, as men without hope; he biddeth us to have pati<g ref="char:EOLhyphen"/>ence, and telleth us, though <hi>heavineſſe cometh at night, yet joy will come in the morning.</hi> Yet</p>
+               <p n="2">2 They are ſeldome prodigious. I have read indeed that <hi>Solar</hi> eclipſes have had ſometimes judgements ſeemingly to bring up the rear of them; and hence ſome have not ſtuck to father them upon the eclipſes: Groundleſly, as</p>
+               <p n="1">1 Famine, as that foretold by
+<note n="n" place="margin">Acts 11.</note> 
+                  <hi>Agabus,</hi> is pretended by ſome to be uſhered in with an horrible eclipſe, if we be<g ref="char:EOLhyphen"/>lieve <hi>Hiſtorians,</hi>
+                  <note place="margin">Dion.</note> which famine continued for five years, and the prices of all things came to be increaſed eight times more then ordinarily.</p>
+               <p n="2">2 Captivity;
+<note place="margin">
+                     <hi>Alſted. Chron.</hi> pag. 54.</note> as that into <hi>Babylon:</hi> And ſome deem the ruine of the <hi>Jews</hi> was portended by that horrid, mira<g ref="char:EOLhyphen"/>culous eclipſe at the death of Jeſus Chriſt.</p>
+               <p n="3">3 Peſtilence; as that great eclipſe in the firſt <hi>Peloponeſ<g ref="char:EOLhyphen"/>ſian</hi> warre; when as the whole body of the Sun was almoſt darkned, ſo that many ſtars by day were ſeen of divers, and which is reputed by ſome to have uſhered in that grie<g ref="char:EOLhyphen"/>vous Attique plague, (whereof ſcarce the like) whereby <hi>A<g ref="char:EOLhyphen"/>thens</hi> was almoſt quite deſtroyed;
+<note place="margin">
+                     <hi>Thucid.</hi> lib. 2. pag. 117. 127. &amp;c.</note> and that great peſtilence, which did miſerably afflict all <hi>Germany</hi> and <hi>France,</hi> in the year, 1093.</p>
+               <p n="4">4 Earthquakes: As that horrid Eclipſe <hi>in anno mundi,</hi> 3733. When the earth was ſhook 57 times in one year, af<g ref="char:EOLhyphen"/>ter ſuch a prodigious defect of the Sun, And that in <hi>Gordi<g ref="char:EOLhyphen"/>an's</hi> time,
+<note place="margin">
+                     <hi>Julius Capito<g ref="char:EOLhyphen"/>linus in vita Gordiani ter<g ref="char:EOLhyphen"/>tit.</hi> pag. 161.</note> 
+                  <hi>anno Chriſti,</hi> 237. wherein many cities were rui<g ref="char:EOLhyphen"/>ned, and many men loſt their lives, when day was turned into night, and men could not ſee any thing without candle-light.</p>
+               <p n="5">5 Perſecutions: as that ſtirred up by <hi>Antiochus Epi<g ref="char:EOLhyphen"/>phanes,</hi>
+                  <pb n="29" facs="tcp:118209:18"/>and that by Antichriſt againſt <hi>John Huſſe,</hi> and <hi>Jerom.</hi> of <hi>Prague,</hi> when the Papiſts did confirme that helliſh do<g ref="char:EOLhyphen"/>ctrine, that <hi>Faith is not to be kept with Hereticks.</hi>
+                  <note place="margin">
+                     <hi>Alſted. Chron.</hi> pag. 61.</note> And when the darkneſſe was ſo horrid, that the birds fell down dead upon the ground.</p>
+               <p n="6">6 Yea abundance of errours and blaſphemies: as Aria<g ref="char:EOLhyphen"/>niſme in <hi>Conſtantius's</hi> time, abounding after that eclipſe; and that ſad controverſie about image-worſhip, between the Eaſtern and Weſtern Churches, was fained by ſome to have been uſhered in by an eclipſe of the Sun.
+<note place="margin">Eginhard. in vitâ Caroli magni. Apparuit per ſeptem dies macula nigri coloris, &amp;c.</note> And all that dark<g ref="char:EOLhyphen"/>ning of Goſpel light, under all thoſe ſucceſſive Popes, ſeemed to ſome uſhered in by that great eclipſe, preceding the death of <hi>Charles</hi> the Great; after which, the Sun ſeemingly wore a black patch ſeven dayes ſucceſſively, if we may credit it.</p>
+               <p n="7">7 Wars; which ſometimes have proved very bloudy; as that of <hi>Darius,</hi> when routed by <hi>Miltiades,</hi> and after by <hi>A<g ref="char:EOLhyphen"/>lexander,</hi> where he loſt 90000 of his men in one pitched battle; and that of <hi>Xerxes</hi> in two remarkable battels alſo.</p>
+               <p>It cannot be denied but theſe have been the fore-runners ſometimes, yet we cannot juſtly ſtile them the cauſes of theſe great judgements. But</p>
+               <p n="1">1 When ſuch like judgements at any time befall us Chri<g ref="char:EOLhyphen"/>ſtians, they are more to be imputed to <hi>the conjunction of our ſins,</hi> then to <hi>the conjunction of the Planets.</hi> And one diſ<g ref="char:EOLhyphen"/>criminating difference of Chriſtians from heathens, is to look to the procuring cauſe of all; <hi>viz.</hi> ſin: rather then to theſe <hi>ſuppoſed diſcoveries</hi> of the wrath of God.</p>
+               <p n="2">2. I obſerve upon a juſt compute,
+<note place="margin">
+                     <hi>Nam experien<g ref="char:EOLhyphen"/>tia teſtatur, vi<g ref="char:EOLhyphen"/>ſis eclipſibus, ſaepe fertiliſſi<g ref="char:EOLhyphen"/>mos, ſaluberri<g ref="char:EOLhyphen"/>mos &amp; exopta<g ref="char:EOLhyphen"/>tiſſimos ſubſe<g ref="char:EOLhyphen"/>quutos fuiſſe annos.</hi> Al<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ted. Encyclopaed. Vranoſcop. par. 2. cap. 12. Reg. 10.</note> bottomed upon the expe<g ref="char:EOLhyphen"/>rience of a learned man, ſometimes after eclipſes, there have the <hi>moſt fruitfull, healthfull, and moſt deſirable times fol<g ref="char:EOLhyphen"/>lowed.</hi> And yet I take not upon me to determine what is in the womb of providence.</p>
+               <p n="3">3 The world hath had as grievous famines, captivities, peſtilences, earthquakes, perſecutions, errours, wars without them, as ever it had with them; how then can they truely be fathered on them?</p>
+               <p n="4">4 I have read, that <hi>Hannibal</hi> had the beginning of his
+<pb n="30" facs="tcp:118209:19"/>victories uſhered in by one eclipſe, and his totall and finall ruine by another: ſo that nothing certaine can bee con<g ref="char:EOLhyphen"/>cluded.</p>
+               <p n="5">5 The face of the heavens was never the ſame exactly ten dayes, no not two dayes together ſince the Creation; and how can there be any
+<note n="x" place="margin">
+                     <hi>Cum experi<g ref="char:EOLhyphen"/>entia ſit ſaepe expertorum, &amp; caedem conſtella<g ref="char:EOLhyphen"/>tiones &amp; revo<g ref="char:EOLhyphen"/>lutiones, nun<g ref="char:EOLhyphen"/>quam bis rever<g ref="char:EOLhyphen"/>tuntur, nedum ſaepiùs, (ut o<g ref="char:EOLhyphen"/>portuit) ſi cer<g ref="char:EOLhyphen"/>tè inde regulae colligendae eſ<g ref="char:EOLhyphen"/>ſent,</hi> 
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>icus Mirandula: <hi>contra Aſtrolo<g ref="char:EOLhyphen"/>gos.</hi>
+                  </note> experimentall knowledge by this?</p>
+               <p n="6">6 Moſt of the former judgements, cannot with the leaſt colour of probability, be imputed to thoſe eclipſes: For that famine whereof <hi>Agabus</hi> propheſied, began before the eclipſe, though it continued after. And the captivity of <hi>Judah</hi> did betide them ſeven years after that eclipſe which which was fore-told by <hi>Thales Miſeſius.</hi> And the ruine of the <hi>Jewes</hi> (if at all) was portended not by a naturall, but a miraculous eclipſe, as formerly I made out: for their ruine befell them above five and thirty years after the horrid eclipſe in Chriſt's time, which is far beyond the mo<g ref="char:EOLhyphen"/>dern account of our ſtar-gazers,
+<note n="b" place="margin">Lilly. Annus Tenebroſus.</note> who confine the operating of any <hi>Solar</hi> eclipſe to ſo many years as the hours are, in which it is eclipſed; which cannot naturally exceed three at moſt. And for wars; how many eclipſes did betide <hi rend="sup">c</hi> this Land, from the yeare one thouſand five hundred and ſixty, unto the year one thouſand ſix hundred and twen<g ref="char:EOLhyphen"/>ty? and yet how few were our wars in thoſe times?</p>
+               <p n="7">7 To intaile any of thoſe former judgements upon e<g ref="char:EOLhyphen"/>clipſes, is meerly heatheniſh; or to look upon them as any way ominous, or prodigious;
+<note n="a" place="margin">Jerem. 10.2.</note> 
+                  <hi>It being only the way of the heathen,</hi> and therefore not to be appoved of by any Chriſtian: As when that
+<note n="b" place="margin">Cleombrotus.</note> Generall ſaw the
+<note n="c" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Herodor. lib. 9. pag. 516.</note> Sun eclipſed, being at ſacrifice, he preſently draweth off all his forces, and would engage himſelfe no further. The like might be inſtanced in many others. But ſo the doubt formerly urged.</p>
+               <p n="2">2 However things may ſucceed after naturall and fir<g ref="char:EOLhyphen"/>mamentary eclipſes, cannot be determined by man; yet we have cauſe to look upon <hi>the malignity</hi> (
+<note n="*" place="margin">Suppoſitio nihil ponit.</note> if there be any) <hi>of all eclipſes</hi> to be <hi>from the malignity of our ſins,</hi> when any bad conſequences follow: if that the paſſion of the <hi>Micro<g ref="char:EOLhyphen"/>coſme ſucceedeth the paſſion of the Macro-coſme;</hi> not becauſe
+<pb n="31" facs="tcp:118209:19"/>of the <hi>malignant aſpect</hi> of the ſtars, but becauſe of the <hi>ma<g ref="char:EOLhyphen"/>lignant nature</hi> of our iniquities. This I muſt needs aſſert, that as after the darkeſt night, followeth commonly the cleareſt day; ſo after the eclipſings of Gods countenance for a moment, commonly follow the influences of greateſt mer<g ref="char:EOLhyphen"/>cies. Saints (I am ſure) have found it ſo by experience, af<g ref="char:EOLhyphen"/>ter all theſe <hi>hidings</hi> of God.
+<note n="b" place="margin">Pſal. 30.5.</note> It is for a moment that his wrath continueth, but with everlaſting mercies that he doth frequently break in upon his people. Eclipſes <hi>Solar</hi> do never exceed three hours, and the eclipſes of the coun<g ref="char:EOLhyphen"/>tenance of Jeſus Chriſt, do ſeldome continue ſo long in the totall darkneſſe of them, but ſome promiſes, as ſo many ſtars, will appear unto them.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obj. </seg>3</label> But my infirmities do moſt of all diſcover them<g ref="char:EOLhyphen"/>ſelves, when Jeſus Chriſt doth eclipſe himſelfe from me?</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>
+                  </label> What I now ſpeak, I ſhall not ſpeak to palliat any mans ſin. Yet we know that the ſpots of the Moon do ne<g ref="char:EOLhyphen"/>ver ſo much appear, as in her eclipſes. Then all may ſee that her parts are not equally condenſated; yet in this caſe my adviſe is to humble thy ſelfe for theſe infirmities; and if thou be in Chriſt, thou mayeſt be then confident that thou haſt Jeſus Chriſt with the Father, to be an Advocate for thee, if thou be a penitent believer. And
+<note n="c" place="margin">Pſal. 37.24.</note> 
+                  <hi>that though thou fall (by infirmities) thou ſhalt not utterly be caſt down;</hi>
+                  <note place="margin">Vide Mollerum.</note> For the Lord will uphold thee with his hand; which may be expounded not onely of falling into afflictions, but in<g ref="char:EOLhyphen"/>firmities.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>4</label> But this troubleth me; never did any meet with ſuch eclipſing of comforts, as I meet withall.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>
+                  </label> But how canſt thou tell that? A man may know the continuance of his owne, hardly of anothers paine. I conceive
+<note n="†" place="margin">
+                     <hi>Alſted. En<g ref="char:EOLhyphen"/>cyclo.</hi> lib. 11. <hi>
+                        <g ref="char:V">Ʋ</g>ranoſcop.</hi> par. 2. cap. 12. reg. 4.</note> there have been as many eclipſes in former ages, as in theſe later times: though they never were recorded, or ſo much obſerved. And Saints doubtleſſe in former times did ſome of them meet with the ſame, even as thou mee<g ref="char:EOLhyphen"/>teſt withall this day. It is an obſervation by ſome, that the ſame eclipſes do never return again, and that becauſe
+<pb n="32" facs="tcp:118209:20"/>the face of the heavens altereth daily.
+<note place="margin">
+                     <hi>Coeli motus in<g ref="char:EOLhyphen"/>ter ſe ſunt in<g ref="char:EOLhyphen"/>commenſurabi<g ref="char:EOLhyphen"/>les. Nec un<g ref="char:EOLhyphen"/>quam Phaeno<g ref="char:EOLhyphen"/>mena, eodem prorſus modo re<g ref="char:EOLhyphen"/>currere poſſunt.</hi> Alſt. lib. &amp; cap. quo ſupra. reg. 7.</note> Which however it may hold true in naturals, yet it holdeth not true in ſpi<g ref="char:EOLhyphen"/>rituals; becauſe we know the ſame afflictions that we meet withall, our brethren that have been in the world, have met withall.
+<note n="d" place="margin">1 Pet. 5.9.</note> 
+                  <hi>Nothing hath happened to thee, but hath hap<g ref="char:EOLhyphen"/>pened to others thy fellow-members before thee.</hi> The ſame Sun eclipſed in one way to ſome in one time, hath been e<g ref="char:EOLhyphen"/>clipſed often in regard of other places. How often are men in <hi>India</hi> and <hi>Africa</hi> robbed of the light of the Sun by eclipſes, when we our ſelves in <hi>England</hi> do enjoy the full benefit of it? And on the contrary. Thou art not therefore able to judge what others have met withall.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obj. </seg>5</label> But the eclipſes of my comforts are very long and frequent.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>
+                  </label> The eclipſes of the Sun are longer, while the Moon ſtandeth longer directly between us and it; And the ſhorter, the ſooner the Moone is removed from between us and it. The longer ſin continueth unrepented of after commiſſi<g ref="char:EOLhyphen"/>on, the eclipſe is like to be longer; and the ſooner repen<g ref="char:EOLhyphen"/>tantance followeth to remove ſin, the ſhorter time, in all probability, it will continue. And for the frequency of thine eclipſes; Some take upon them to determine, how often eclipſes may happen to theſe two great Luminaries in a years ſpace, <hi>viz.</hi> that there may be five, or thereabout, and not above ſix;
+<note place="margin">
+                     <hi>Alſted. Ency<g ref="char:EOLhyphen"/>clopaed.</hi> lib 11. <hi>
+                        <g ref="char:V">Ʋ</g>ranoſcop.</hi> part 2. reg. 6.</note> And they obſerve alſo that there is no year that hath not ſome eclipſes, albeit they do not ap<g ref="char:EOLhyphen"/>pear to us. Spirituall eclipſes may return often, and yet no oftener then they have to others before us. But for thee, that art ſubject to theſe ſpirituall eclipſes; I would offer theſe few things by way of direction, and ſo conclude.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>3</label> Of direction to thee in this eſtate.</p>
+               <p n="1">1. See what it is that doth interpoſe it ſelfe between thee and Jeſus Chriſt. In all probability, ſome ſin or other. When <hi>Joſeph's</hi> brethren had ſold him, God at the laſt drawes a cloud between him and them, eclipſeth his favour, ſtartling their conſciences, and then they conclude, <hi>We are verily guilty concerning our brother,
+<note place="margin">Gen. 41.11.</note> in that we ſaw the an<g ref="char:EOLhyphen"/>guiſh of his ſoul, when he beſought us, and we would not
+<pb n="33" facs="tcp:118209:20"/>hear: therefore is this diſtreſſe come upon us.</hi> Or, as <hi>Reuben</hi> ſaith plainely unto them, <hi>Therefore,</hi>
+                  <note place="margin">Gen. 41.22.</note> 
+                  <hi>be<g ref="char:EOLhyphen"/>hold alſo his blood is required.</hi> When conſcience is awakened, then will the cloud appear more thick unto thee.</p>
+               <p n="2">2. Take notice of the magnitude of thy ſin by the greatneſſe of thy eclipſe. They are the e<g ref="char:EOLhyphen"/>clipſes of the Sunne and Moone, that ſhew both their greatneſſe, and the greatneſſe of the earth alſo: When <hi>David</hi> was under the eclipſe, how doth he then bewaile the magnitude of his ſin, as the procuring cauſe of it. <hi>My ſin is ever before mee. And, Againſt thee,
+<note place="margin">Pſal. 51.3, 4, 5.</note> thee onely have I ſinned</hi> thus hainouſly. And hee runs back to Originall ſinne, to ſee if that had not contributed ſomething to that grand eclipſe that was upon him: <hi>Behold,</hi>
+                  <note place="margin">Pſal. 51.6.</note> 
+                  <hi>I was ſhapen in iniquity, and in ſinne did my Mo<g ref="char:EOLhyphen"/>ther conceive mee.</hi> Men knowing, that it is the great<g ref="char:EOLhyphen"/>neſſe of the plaiſter, that may ſhew the great<g ref="char:EOLhyphen"/>neſſe of the wound: and the greatneſſe of the eclipſings of God's favour may ſhew thee the great<g ref="char:EOLhyphen"/>neſſe of the ſin, that is upon thee.</p>
+               <p n="3">3. Let the Sight of thy Sin, and it's magni<g ref="char:EOLhyphen"/>tude, drive thee unto repentance, which is the readieſt way to bring thee out of thine eclip<g ref="char:EOLhyphen"/>ſed eſtate, and condition:
+<note place="margin">Job 42.6.</note> When <hi>Job was brought</hi> penitentially <hi>to abhorre himſelf in duſt and aſhes,</hi> how quickly did hee finde the flow<g ref="char:EOLhyphen"/>ings downe of love upon him? And was it not ſo with <hi>David?</hi> How quickly did hee heare of joy and gladneſſe, ſo that the bones that God had broken doe begin to rejoyce, after ſuch time as he ſeriouſly repented.</p>
+               <p n="4">4. Give thy ſelfe wholly to prayer. Prayer will not draw the firmamentary Sun out of the eclipſe one moment the ſooner; no more then the <hi>Romans</hi> beating of braſſe pans, and lifting up their lighted torches
+<pb n="34" facs="tcp:118209:21"/>towards the Moone,
+<note place="margin">Plutarch. in Aemilio.</note> would draw her any whit the ſpeedier out of the eclipſe: Yet it may draw this ſuper-coeleſtiall Sun much ſooner out of it. When it came to that, <hi>Lord, in trouble they have viſited thee, they have poured out a prayer while thy chaſtiſement was upon them,</hi>
+                  <note place="margin">Jonah 2.2. &amp; 4.4.</note> how quickly then doth this myſticall Sunne ſhine in upon them? And then they conclude, <hi>Thy dead men ſhall live, &amp;c.</hi>
+                  <note place="margin">Iſai. 50.10.</note> When <hi>Jonah</hi> was in the belly of the Whale, <hi>hee looketh unto the Lord, and his prayer cometh to his holy Temple.</hi> How quickly then doth mer<g ref="char:EOLhyphen"/>cy come in to him? The penitent ſoule that goeth to God in the name of Jeſus Chriſt, with a <hi>Bee not farre from mee, for trouble is near, or upon mee,</hi> may confidently expect, that comfort will not be long in coming.</p>
+               <p n="5">5. Waite ſtill on God. Sweet is the counſell of God himſelf, and exceeding cordiall, <hi>Who is among you that feareth the Lord, — that walketh in darkneſſe</hi> (i. e.
+<note place="margin">Iſai 30.18, 19.</note> that hath his Sun eclipſed,) <hi>and hath no light; Let him truſt in the Name of the Lord, and ſtay upon his God:</hi> Paralell is that declaration, <hi>Our God waiteth to bee gracious</hi> unto <hi>his.</hi> A grand conde<g ref="char:EOLhyphen"/>ſcention, for the Creatour to wait upon the crea<g ref="char:EOLhyphen"/>ture! And he will bee gracious to thee, when he hears thy cry. <hi>He can cauſe light to riſe out of</hi> moſt obſcure <hi>darkneſſe.</hi>
+                  <note place="margin">Pſal. 112.4. Gen. 15.17.</note> When the Sun went down in <hi>A<g ref="char:EOLhyphen"/>braham's</hi> time, wee read expreſly once, there was a great darkneſſe, and a ſmoaking furnace; and yet then God came in with a burning lamp among the pieces, <hi>i. e.</hi> emblematically, his people: God hath limited our eclipſes, not onely firmamentary, but ſpirituall; not onely for hours, but for mo<g ref="char:EOLhyphen"/>ments: And he waiteth ſtill to be gracious to them that humbly wait upon him their God.</p>
+               <p n="6">6. Keep out of the ecliptick line, when once thou art come out of it: Providentiall motions
+<pb n="35" facs="tcp:118209:21"/>bring on <hi>Solar</hi> and <hi>Lunar</hi> Eclipſes: but ſelfe-ſinfull motions bring on our ſpirituall Eclipſes. If after thou are eluctated out of one, thou falleſt into a<g ref="char:EOLhyphen"/>nother again; Conſcience will twit thee,
+<note place="margin">Jer. 2.17.</note> Haſt not thou procured this to thy ſelfe? But if thou care<g ref="char:EOLhyphen"/>fully wait upon God, and keep thy ſelf from ſin; thou ſhalt always find this text to be verified, <hi>That Chriſt this Sun of Righteouſneſſe will never go down to thee:</hi> He will never remove out of the <hi>Horizon</hi> of thy ſoule: Though in a prerogative way he may eclipſe himſelfe, yet thou ſhalt find that <hi>thy Sun will not any more go down</hi> from thee.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>
+               <hi>Pag.</hi> 23. <hi>line</hi> 1. for Apoſtolicall, read <hi>Apoſtatical. p.</hi> 30. <hi>l.</hi> 32. for ſo, r. <hi>to.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
